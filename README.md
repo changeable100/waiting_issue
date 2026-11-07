@@ -19,8 +19,9 @@ git clone --branch zpx/model-development https://github.com/changeable100/waitin
 | 3 参数和服务接口 | 可替换情境配置、多次仿真、容量敏感性接口、误差评价接口 | 已完成，见 reports/03_interfaces.md |
 | 4 工程验证和实验 | 手算案例、边界和守恒测试、16 类合成场景及 3 组容量 | 已完成，见 reports/04_validation.md |
 | 5 本地网页演示 | 场景选择、容量调整、模型调用、曲线与统计、JSON导出 | 已完成，见 reports/05_local_web.md |
-| 6 真实数据校准 | 接收团队数据、按日期划分训练集和验证集、校准与检验 | 待真实数据，未完成 |
-| 7 团队联调和论文实验 | 与正式后端、优化及论文成员联调，确认口径，生成正式图表 | 待团队模块，未完成 |
+| 6 GitHub协作 | main公共文档、个人开发分支、上传检查与协作说明 | 已完成，见 reports/06_github_collaboration.md |
+| 7 真实数据校准 | 接收团队数据、按日期划分训练集和验证集、校准与检验 | 待真实数据，未完成 |
+| 8 团队联调和论文实验 | 与正式后端、优化及论文成员联调，确认口径，生成正式图表 | 待团队模块，未完成 |
 
 ## 打开演示界面
 
@@ -64,6 +65,6 @@ python -m venv .venv
 
 ## 对接与阶段检查材料
 
-先阅读 [开发边界](docs/01_scope_and_plan.md) 与 [统一接口](docs/02_contract.md)。`docs/agents/` 中按成员分别准备了可以直接复制给 agent 的任务说明。`reports/` 中五份逐步报告对应五个已完成步骤，`reports/00_teacher_summary.md` 是阶段汇总。
+先阅读 [开发边界](docs/01_scope_and_plan.md) 与 [统一接口](docs/02_contract.md)。`docs/agents/` 中按成员分别准备了可以直接复制给 agent 的任务说明。`reports/` 中六份逐步报告对应六个已完成步骤，`reports/00_teacher_summary.md` 是阶段汇总。
 
 仿真资源语义参考 [SimPy 官方共享资源说明](https://simpy.readthedocs.io/en/stable/simpy_intro/shared_resources.html)；依赖锁定为 4.1.1。未引用申请书里的未核验市场数字作为实验事实。
