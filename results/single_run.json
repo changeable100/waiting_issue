@@ -1,0 +1,3985 @@
+{
+  "seed": 42,
+  "source_kind": "synthetic",
+  "provenance": "工程测试合成数据 seed=20261107；情境系数不代表真实校园规律",
+  "horizon_min": 120,
+  "drain_complete_min": 114.2746,
+  "orders": [
+    {
+      "id": "d2-0000",
+      "locker_id": "A",
+      "arrival_min": 9.1054,
+      "stored_min": 9.1054,
+      "student_arrival_min": 13.1054,
+      "pickup_start_min": 13.1054,
+      "pickup_complete_min": 13.805399999999999,
+      "deposit_wait_min": 0.0,
+      "student_queue_wait_min": 0.0,
+      "total_queue_wait_min": 0.0,
+      "pickup_service_min": 0.7,
+      "arrival_to_pickup_min": 4.699999999999999,
+      "order_time_min": -25.8946,
+      "order_to_pickup_min": 39.7
+    },
+    {
+      "id": "d2-0001",
+      "locker_id": "A",
+      "arrival_min": 11.6907,
+      "stored_min": 11.6907,
+      "student_arrival_min": 17.8907,
+      "pickup_start_min": 17.8907,
+      "pickup_complete_min": 18.1907,
+      "deposit_wait_min": 0.0,
+      "student_queue_wait_min": 0.0,
+      "total_queue_wait_min": 0.0,
+      "pickup_service_min": 0.3,
+      "arrival_to_pickup_min": 6.5,
+      "order_time_min": -18.3093,
+      "order_to_pickup_min": 36.5
+    },
+    {
+      "id": "d2-0005",
+      "locker_id": "A",
+      "arrival_min": 16.6967,
+      "stored_min": 16.6967,
+      "student_arrival_min": 20.6967,
+      "pickup_start_min": 20.6967,
+      "pickup_complete_min": 20.9967,
+      "deposit_wait_min": 0.0,
+      "student_queue_wait_min": 0.0,
+      "total_queue_wait_min": 0.0,
+      "pickup_service_min": 0.3,
+      "arrival_to_pickup_min": 4.300000000000001,
+      "order_time_min": -18.3033,
+      "order_to_pickup_min": 39.3
+    },
+    {
+      "id": "d2-0007",
+      "locker_id": "A",
+      "arrival_min": 18.4194,
+      "stored_min": 18.4194,
+      "student_arrival_min": 22.9194,
+      "pickup_start_min": 22.9194,
+      "pickup_complete_min": 23.6194,
+      "deposit_wait_min": 0.0,
+      "student_queue_wait_min": 0.0,
+      "total_queue_wait_min": 0.0,
+      "pickup_service_min": 0.7,
+      "arrival_to_pickup_min": 5.199999999999999,
+      "order_time_min": -6.5806000000000004,
+      "order_to_pickup_min": 30.2
+    },
+    {
+      "id": "d2-0006",
+      "locker_id": "A",
+      "arrival_min": 17.6299,
+      "stored_min": 17.6299,
+      "student_arrival_min": 23.6299,
+      "pickup_start_min": 23.6299,
+      "pickup_complete_min": 24.3299,
+      "deposit_wait_min": 0.0,
+      "student_queue_wait_min": 0.0,
+      "total_queue_wait_min": 0.0,
+      "pickup_service_min": 0.7,
+      "arrival_to_pickup_min": 6.699999999999999,
+      "order_time_min": -12.3701,
+      "order_to_pickup_min": 36.7
+    },
+    {
+      "id": "d2-0002",
+      "locker_id": "A",
+      "arrival_min": 12.7648,
+      "stored_min": 12.7648,
+      "student_arrival_min": 27.7648,
+      "pickup_start_min": 27.7648,
+      "pickup_complete_min": 28.0648,
+      "deposit_wait_min": 0.0,
+      "student_queue_wait_min": 0.0,
+      "total_queue_wait_min": 0.0,
+      "pickup_service_min": 0.3,
+      "arrival_to_pickup_min": 15.300000000000002,
+      "order_time_min": -12.2352,
+      "order_to_pickup_min": 40.300000000000004
+    },
+    {
+      "id": "d2-0004",
+      "locker_id": "A",
+      "arrival_min": 15.6263,
+      "stored_min": 15.6263,
+      "student_arrival_min": 27.6263,
+      "pickup_start_min": 27.6263,
+      "pickup_complete_min": 28.1263,
+      "deposit_wait_min": 0.0,
+      "student_queue_wait_min": 0.0,
+      "total_queue_wait_min": 0.0,
+      "pickup_service_min": 0.5,
+      "arrival_to_pickup_min": 12.5,
+      "order_time_min": -19.3737,
+      "order_to_pickup_min": 47.5
+    },
+    {
+      "id": "d2-0003",
+      "locker_id": "A",
+      "arrival_min": 13.0469,
+      "stored_min": 13.0469,
+      "student_arrival_min": 28.5469,
+      "pickup_start_min": 28.5469,
+      "pickup_complete_min": 29.2469,
+      "deposit_wait_min": 0.0,
+      "student_queue_wait_min": 0.0,
+      "total_queue_wait_min": 0.0,
+      "pickup_service_min": 0.7,
+      "arrival_to_pickup_min": 16.2,
+      "order_time_min": -16.9531,
+      "order_to_pickup_min": 46.2
+    },
+    {
+      "id": "d2-0011",
+      "locker_id": "A",
+      "arrival_min": 26.6786,
+      "stored_min": 26.6786,
+      "student_arrival_min": 30.8786,
+      "pickup_start_min": 30.8786,
+      "pickup_complete_min": 31.1786,
+      "deposit_wait_min": 0.0,
+      "student_queue_wait_min": 0.0,
+      "total_queue_wait_min": 0.0,
+      "pickup_service_min": 0.3,
+      "arrival_to_pickup_min": 4.5,
+      "order_time_min": 1.6785999999999994,
+      "order_to_pickup_min": 29.5
+    },
+    {
+      "id": "d2-0014",
+      "locker_id": "A",
+      "arrival_min": 28.3908,
+      "stored_min": 28.3908,
+      "student_arrival_min": 32.5908,
+      "pickup_start_min": 32.5908,
+      "pickup_complete_min": 32.8908,
+      "deposit_wait_min": 0.0,
+      "student_queue_wait_min": 0.0,
+      "total_queue_wait_min": 0.0,
+      "pickup_service_min": 0.3,
+      "arrival_to_pickup_min": 4.5,
+      "order_time_min": -6.609200000000001,
+      "order_to_pickup_min": 39.5
+    },
+    {
+      "id": "d2-0015",
+      "locker_id": "A",
+      "arrival_min": 28.7041,
+      "stored_min": 28.7041,
+      "student_arrival_min": 32.9041,
+      "pickup_start_min": 32.9041,
+      "pickup_complete_min": 33.4041,
+      "deposit_wait_min": 0.0,
+      "student_queue_wait_min": 0.0,
+      "total_queue_wait_min": 0.0,
+      "pickup_service_min": 0.5,
+      "arrival_to_pickup_min": 4.699999999999999,
+      "order_time_min": 3.7041000000000004,
+      "order_to_pickup_min": 29.7
+    },
+    {
+      "id": "d2-0009",
+      "locker_id": "A",
+      "arrival_min": 20.7444,
+      "stored_min": 20.7444,
+      "student_arrival_min": 33.2444,
+      "pickup_start_min": 33.2444,
+      "pickup_complete_min": 33.7444,
+      "deposit_wait_min": 0.0,
+      "student_queue_wait_min": 0.0,
+      "total_queue_wait_min": 0.0,
+      "pickup_service_min": 0.5,
+      "arrival_to_pickup_min": 13.0,
+      "order_time_min": -4.255600000000001,
+      "order_to_pickup_min": 38.0
+    },
+    {
+      "id": "d2-0013",
+      "locker_id": "A",
+      "arrival_min": 27.7108,
+      "stored_min": 27.7108,
+      "student_arrival_min": 33.9108,
+      "pickup_start_min": 33.9108,
+      "pickup_complete_min": 34.2108,
+      "deposit_wait_min": 0.0,
+      "student_queue_wait_min": 0.0,
+      "total_queue_wait_min": 0.0,
+      "pickup_service_min": 0.3,
+      "arrival_to_pickup_min": 6.5,
+      "order_time_min": 7.710799999999999,
+      "order_to_pickup_min": 26.5
+    },
+    {
+      "id": "d2-0010",
+      "locker_id": "A",
+      "arrival_min": 24.6417,
+      "stored_min": 24.6417,
+      "student_arrival_min": 34.6417,
+      "pickup_start_min": 34.6417,
+      "pickup_complete_min": 35.3417,
+      "deposit_wait_min": 0.0,
+      "student_queue_wait_min": 0.0,
+      "total_queue_wait_min": 0.0,
+      "pickup_service_min": 0.7,
+      "arrival_to_pickup_min": 10.700000000000003,
+      "order_time_min": 4.6417,
+      "order_to_pickup_min": 30.700000000000003
+    },
+    {
+      "id": "d2-0008",
+      "locker_id": "A",
+      "arrival_min": 20.1995,
+      "stored_min": 20.1995,
+      "student_arrival_min": 35.1995,
+      "pickup_start_min": 35.1995,
+      "pickup_complete_min": 35.8995,
+      "deposit_wait_min": 0.0,
+      "student_queue_wait_min": 0.0,
+      "total_queue_wait_min": 0.0,
+      "pickup_service_min": 0.7,
+      "arrival_to_pickup_min": 15.700000000000003,
+      "order_time_min": 0.19950000000000045,
+      "order_to_pickup_min": 35.7
+    },
+    {
+      "id": "d2-0018",
+      "locker_id": "A",
+      "arrival_min": 32.4411,
+      "stored_min": 32.4411,
+      "student_arrival_min": 36.9411,
+      "pickup_start_min": 36.9411,
+      "pickup_complete_min": 37.4411,
+      "deposit_wait_min": 0.0,
+      "student_queue_wait_min": 0.0,
+      "total_queue_wait_min": 0.0,
+      "pickup_service_min": 0.5,
+      "arrival_to_pickup_min": 5.0,
+      "order_time_min": 7.441099999999999,
+      "order_to_pickup_min": 30.0
+    },
+    {
+      "id": "d2-0012",
+      "locker_id": "A",
+      "arrival_min": 27.2035,
+      "stored_min": 27.2035,
+      "student_arrival_min": 37.7035,
+      "pickup_start_min": 37.7035,
+      "pickup_complete_min": 38.2035,
+      "deposit_wait_min": 0.0,
+      "student_queue_wait_min": 0.0,
+      "total_queue_wait_min": 0.0,
+      "pickup_service_min": 0.5,
+      "arrival_to_pickup_min": 11.0,
+      "order_time_min": -2.7965000000000018,
+      "order_to_pickup_min": 41.0
+    },
+    {
+      "id": "d2-0022",
+      "locker_id": "A",
+      "arrival_min": 35.8155,
+      "stored_min": 35.8155,
+      "student_arrival_min": 39.8155,
+      "pickup_start_min": 39.8155,
+      "pickup_complete_min": 40.5155,
+      "deposit_wait_min": 0.0,
+      "student_queue_wait_min": 0.0,
+      "total_queue_wait_min": 0.0,
+      "pickup_service_min": 0.7,
+      "arrival_to_pickup_min": 4.700000000000003,
+      "order_time_min": 10.8155,
+      "order_to_pickup_min": 29.700000000000003
+    },
+    {
+      "id": "d2-0021",
+      "locker_id": "A",
+      "arrival_min": 34.7033,
+      "stored_min": 34.7033,
+      "student_arrival_min": 41.2033,
+      "pickup_start_min": 41.2033,
+      "pickup_complete_min": 41.9033,
+      "deposit_wait_min": 0.0,
+      "student_queue_wait_min": 0.0,
+      "total_queue_wait_min": 0.0,
+      "pickup_service_min": 0.7,
+      "arrival_to_pickup_min": 7.200000000000003,
+      "order_time_min": 9.703299999999999,
+      "order_to_pickup_min": 32.2
+    },
+    {
+      "id": "d2-0024",
+      "locker_id": "A",
+      "arrival_min": 37.6017,
+      "stored_min": 37.6017,
+      "student_arrival_min": 41.6017,
+      "pickup_start_min": 41.6017,
+      "pickup_complete_min": 42.1017,
+      "deposit_wait_min": 0.0,
+      "student_queue_wait_min": 0.0,
+      "total_queue_wait_min": 0.0,
+      "pickup_service_min": 0.5,
+      "arrival_to_pickup_min": 4.5,
+      "order_time_min": 17.6017,
+      "order_to_pickup_min": 24.5
+    },
+    {
+      "id": "d2-0016",
+      "locker_id": "A",
+      "arrival_min": 30.5211,
+      "stored_min": 30.5211,
+      "student_arrival_min": 42.7211,
+      "pickup_start_min": 42.7211,
+      "pickup_complete_min": 43.2211,
+      "deposit_wait_min": 0.0,
+      "student_queue_wait_min": 0.0,
+      "total_queue_wait_min": 0.0,
+      "pickup_service_min": 0.5,
+      "arrival_to_pickup_min": 12.7,
+      "order_time_min": -4.478899999999999,
+      "order_to_pickup_min": 47.7
+    },
+    {
+      "id": "d2-0023",
+      "locker_id": "A",
+      "arrival_min": 36.6357,
+      "stored_min": 36.6357,
+      "student_arrival_min": 44.6357,
+      "pickup_start_min": 44.6357,
+      "pickup_complete_min": 44.9357,
+      "deposit_wait_min": 0.0,
+      "student_queue_wait_min": 0.0,
+      "total_queue_wait_min": 0.0,
+      "pickup_service_min": 0.3,
+      "arrival_to_pickup_min": 8.299999999999997,
+      "order_time_min": 1.6357,
+      "order_to_pickup_min": 43.3
+    },
+    {
+      "id": "d2-0019",
+      "locker_id": "A",
+      "arrival_min": 32.577,
+      "stored_min": 32.577,
+      "student_arrival_min": 44.577,
+      "pickup_start_min": 44.577,
+      "pickup_complete_min": 45.077,
+      "deposit_wait_min": 0.0,
+      "student_queue_wait_min": 0.0,
+      "total_queue_wait_min": 0.0,
+      "pickup_service_min": 0.5,
+      "arrival_to_pickup_min": 12.5,
+      "order_time_min": 7.576999999999998,
+      "order_to_pickup_min": 37.5
+    },
+    {
+      "id": "d2-0020",
+      "locker_id": "A",
+      "arrival_min": 32.8431,
+      "stored_min": 32.8431,
+      "student_arrival_min": 45.3431,
+      "pickup_start_min": 45.3431,
+      "pickup_complete_min": 45.8431,
+      "deposit_wait_min": 0.0,
+      "student_queue_wait_min": 0.0,
+      "total_queue_wait_min": 0.0,
+      "pickup_service_min": 0.5,
+      "arrival_to_pickup_min": 13.0,
+      "order_time_min": 12.8431,
+      "order_to_pickup_min": 33.0
+    },
+    {
+      "id": "d2-0029",
+      "locker_id": "A",
+      "arrival_min": 40.9767,
+      "stored_min": 40.9767,
+      "student_arrival_min": 45.4767,
+      "pickup_start_min": 45.4767,
+      "pickup_complete_min": 46.176700000000004,
+      "deposit_wait_min": 0.0,
+      "student_queue_wait_min": 0.0,
+      "total_queue_wait_min": 0.0,
+      "pickup_service_min": 0.7,
+      "arrival_to_pickup_min": 5.200000000000003,
+      "order_time_min": 5.976700000000001,
+      "order_to_pickup_min": 40.2
+    },
+    {
+      "id": "d2-0017",
+      "locker_id": "A",
+      "arrival_min": 30.6801,
+      "stored_min": 30.6801,
+      "student_arrival_min": 45.680099999999996,
+      "pickup_start_min": 45.8431,
+      "pickup_complete_min": 46.3431,
+      "deposit_wait_min": 0.0,
+      "student_queue_wait_min": 0.1630000000000038,
+      "total_queue_wait_min": 0.1630000000000038,
+      "pickup_service_min": 0.5,
+      "arrival_to_pickup_min": 15.663,
+      "order_time_min": 5.6800999999999995,
+      "order_to_pickup_min": 40.663
+    },
+    {
+      "id": "d2-0026",
+      "locker_id": "A",
+      "arrival_min": 39.7836,
+      "stored_min": 39.7836,
+      "student_arrival_min": 45.9836,
+      "pickup_start_min": 46.176700000000004,
+      "pickup_complete_min": 46.676700000000004,
+      "deposit_wait_min": 0.0,
+      "student_queue_wait_min": 0.19310000000000116,
+      "total_queue_wait_min": 0.19310000000000116,
+      "pickup_service_min": 0.5,
+      "arrival_to_pickup_min": 6.893100000000004,
+      "order_time_min": 14.7836,
+      "order_to_pickup_min": 31.893100000000004
+    },
+    {
+      "id": "d2-0027",
+      "locker_id": "A",
+      "arrival_min": 39.9109,
+      "stored_min": 39.9109,
+      "student_arrival_min": 46.1109,
+      "pickup_start_min": 46.3431,
+      "pickup_complete_min": 47.0431,
+      "deposit_wait_min": 0.0,
+      "student_queue_wait_min": 0.23219999999999885,
+      "total_queue_wait_min": 0.23219999999999885,
+      "pickup_service_min": 0.7,
+      "arrival_to_pickup_min": 7.1322000000000045,
+      "order_time_min": 9.910899999999998,
+      "order_to_pickup_min": 37.132200000000005
+    },
+    {
+      "id": "d2-0035",
+      "locker_id": "A",
+      "arrival_min": 42.5633,
+      "stored_min": 42.5633,
+      "student_arrival_min": 48.5633,
+      "pickup_start_min": 48.5633,
+      "pickup_complete_min": 48.863299999999995,
+      "deposit_wait_min": 0.0,
+      "student_queue_wait_min": 0.0,
+      "total_queue_wait_min": 0.0,
+      "pickup_service_min": 0.3,
+      "arrival_to_pickup_min": 6.299999999999997,
+      "order_time_min": 17.563299999999998,
+      "order_to_pickup_min": 31.299999999999997
+    },
+    {
+      "id": "d2-0031",
+      "locker_id": "A",
+      "arrival_min": 42.155,
+      "stored_min": 42.155,
+      "student_arrival_min": 48.655,
+      "pickup_start_min": 48.863299999999995,
+      "pickup_complete_min": 49.16329999999999,
+      "deposit_wait_min": 0.0,
+      "student_queue_wait_min": 0.20829999999999416,
+      "total_queue_wait_min": 0.20829999999999416,
+      "pickup_service_min": 0.3,
+      "arrival_to_pickup_min": 7.008299999999991,
+      "order_time_min": 7.155000000000001,
+      "order_to_pickup_min": 42.00829999999999
+    },
+    {
+      "id": "d2-0030",
+      "locker_id": "A",
+      "arrival_min": 42.1252,
+      "stored_min": 42.1252,
+      "student_arrival_min": 48.6252,
+      "pickup_start_min": 48.6252,
+      "pickup_complete_min": 49.3252,
+      "deposit_wait_min": 0.0,
+      "student_queue_wait_min": 0.0,
+      "total_queue_wait_min": 0.0,
+      "pickup_service_min": 0.7,
+      "arrival_to_pickup_min": 7.200000000000003,
+      "order_time_min": 12.1252,
+      "order_to_pickup_min": 37.2
+    },
+    {
+      "id": "d2-0025",
+      "locker_id": "A",
+      "arrival_min": 39.1458,
+      "stored_min": 39.1458,
+      "student_arrival_min": 49.3458,
+      "pickup_start_min": 49.3458,
+      "pickup_complete_min": 50.0458,
+      "deposit_wait_min": 0.0,
+      "student_queue_wait_min": 0.0,
+      "total_queue_wait_min": 0.0,
+      "pickup_service_min": 0.7,
+      "arrival_to_pickup_min": 10.899999999999999,
+      "order_time_min": 9.145800000000001,
+      "order_to_pickup_min": 40.9
+    },
+    {
+      "id": "d2-0037",
+      "locker_id": "A",
+      "arrival_min": 44.2946,
+      "stored_min": 44.9357,
+      "student_arrival_min": 50.9357,
+      "pickup_start_min": 50.9357,
+      "pickup_complete_min": 51.6357,
+      "deposit_wait_min": 0.6410999999999945,
+      "student_queue_wait_min": 0.0,
+      "total_queue_wait_min": 0.6410999999999945,
+      "pickup_service_min": 0.7,
+      "arrival_to_pickup_min": 7.341099999999997,
+      "order_time_min": 19.294600000000003,
+      "order_to_pickup_min": 32.3411
+    },
+    {
+      "id": "d2-0041",
+      "locker_id": "A",
+      "arrival_min": 45.9864,
+      "stored_min": 46.3431,
+      "student_arrival_min": 52.5431,
+      "pickup_start_min": 52.5431,
+      "pickup_complete_min": 52.8431,
+      "deposit_wait_min": 0.35669999999999646,
+      "student_queue_wait_min": 0.0,
+      "total_queue_wait_min": 0.35669999999999646,
+      "pickup_service_min": 0.3,
+      "arrival_to_pickup_min": 6.8566999999999965,
+      "order_time_min": 20.986400000000003,
+      "order_to_pickup_min": 31.856699999999996
+    },
+    {
+      "id": "d2-0032",
+      "locker_id": "A",
+      "arrival_min": 42.3132,
+      "stored_min": 42.3132,
+      "student_arrival_min": 52.5132,
+      "pickup_start_min": 52.5132,
+      "pickup_complete_min": 53.0132,
+      "deposit_wait_min": 0.0,
+      "student_queue_wait_min": 0.0,
+      "total_queue_wait_min": 0.0,
+      "pickup_service_min": 0.5,
+      "arrival_to_pickup_min": 10.699999999999996,
+      "order_time_min": 7.313200000000002,
+      "order_to_pickup_min": 45.699999999999996
+    },
+    {
+      "id": "d2-0038",
+      "locker_id": "A",
+      "arrival_min": 44.3699,
+      "stored_min": 45.077,
+      "student_arrival_min": 53.577,
+      "pickup_start_min": 53.577,
+      "pickup_complete_min": 53.876999999999995,
+      "deposit_wait_min": 0.707099999999997,
+      "student_queue_wait_min": 0.0,
+      "total_queue_wait_min": 0.707099999999997,
+      "pickup_service_min": 0.3,
+      "arrival_to_pickup_min": 9.507099999999994,
+      "order_time_min": 19.3699,
+      "order_to_pickup_min": 34.507099999999994
+    },
+    {
+      "id": "d2-0036",
+      "locker_id": "A",
+      "arrival_min": 43.4198,
+      "stored_min": 43.4198,
+      "student_arrival_min": 53.6198,
+      "pickup_start_min": 53.6198,
+      "pickup_complete_min": 54.1198,
+      "deposit_wait_min": 0.0,
+      "student_queue_wait_min": 0.0,
+      "total_queue_wait_min": 0.0,
+      "pickup_service_min": 0.5,
+      "arrival_to_pickup_min": 10.699999999999996,
+      "order_time_min": 18.419800000000002,
+      "order_to_pickup_min": 35.699999999999996
+    },
+    {
+      "id": "d2-0047",
+      "locker_id": "A",
+      "arrival_min": 50.767,
+      "stored_min": 50.767,
+      "student_arrival_min": 54.767,
+      "pickup_start_min": 54.767,
+      "pickup_complete_min": 55.067,
+      "deposit_wait_min": 0.0,
+      "student_queue_wait_min": 0.0,
+      "total_queue_wait_min": 0.0,
+      "pickup_service_min": 0.3,
+      "arrival_to_pickup_min": 4.299999999999997,
+      "order_time_min": 20.767000000000003,
+      "order_to_pickup_min": 34.3
+    },
+    {
+      "id": "d2-0028",
+      "locker_id": "A",
+      "arrival_min": 40.6803,
+      "stored_min": 40.6803,
+      "student_arrival_min": 55.880300000000005,
+      "pickup_start_min": 55.880300000000005,
+      "pickup_complete_min": 56.58030000000001,
+      "deposit_wait_min": 0.0,
+      "student_queue_wait_min": 0.0,
+      "total_queue_wait_min": 0.0,
+      "pickup_service_min": 0.7,
+      "arrival_to_pickup_min": 15.900000000000006,
+      "order_time_min": 10.680300000000003,
+      "order_to_pickup_min": 45.900000000000006
+    },
+    {
+      "id": "d2-0039",
+      "locker_id": "A",
+      "arrival_min": 44.9841,
+      "stored_min": 45.8431,
+      "student_arrival_min": 56.3431,
+      "pickup_start_min": 56.3431,
+      "pickup_complete_min": 56.8431,
+      "deposit_wait_min": 0.8590000000000018,
+      "student_queue_wait_min": 0.0,
+      "total_queue_wait_min": 0.8590000000000018,
+      "pickup_service_min": 0.5,
+      "arrival_to_pickup_min": 11.859000000000002,
+      "order_time_min": 14.984099999999998,
+      "order_to_pickup_min": 41.859
+    },
+    {
+      "id": "d2-0040",
+      "locker_id": "A",
+      "arrival_min": 45.6434,
+      "stored_min": 46.176700000000004,
+      "student_arrival_min": 56.676700000000004,
+      "pickup_start_min": 56.676700000000004,
+      "pickup_complete_min": 56.9767,
+      "deposit_wait_min": 0.5333000000000041,
+      "student_queue_wait_min": 0.0,
+      "total_queue_wait_min": 0.5333000000000041,
+      "pickup_service_min": 0.3,
+      "arrival_to_pickup_min": 11.333300000000001,
+      "order_time_min": 10.6434,
+      "order_to_pickup_min": 46.3333
+    },
+    {
+      "id": "d2-0045",
+      "locker_id": "A",
+      "arrival_min": 50.4933,
+      "stored_min": 50.4933,
+      "student_arrival_min": 56.6933,
+      "pickup_start_min": 56.8431,
+      "pickup_complete_min": 57.1431,
+      "deposit_wait_min": 0.0,
+      "student_queue_wait_min": 0.14979999999999905,
+      "total_queue_wait_min": 0.14979999999999905,
+      "pickup_service_min": 0.3,
+      "arrival_to_pickup_min": 6.649799999999999,
+      "order_time_min": 15.493299999999998,
+      "order_to_pickup_min": 41.6498
+    },
+    {
+      "id": "d2-0034",
+      "locker_id": "A",
+      "arrival_min": 42.5542,
+      "stored_min": 42.5542,
+      "student_arrival_min": 57.5542,
+      "pickup_start_min": 57.5542,
+      "pickup_complete_min": 58.0542,
+      "deposit_wait_min": 0.0,
+      "student_queue_wait_min": 0.0,
+      "total_queue_wait_min": 0.0,
+      "pickup_service_min": 0.5,
+      "arrival_to_pickup_min": 15.5,
+      "order_time_min": 22.5542,
+      "order_to_pickup_min": 35.5
+    },
+    {
+      "id": "d2-0033",
+      "locker_id": "A",
+      "arrival_min": 42.4116,
+      "stored_min": 42.4116,
+      "student_arrival_min": 57.9116,
+      "pickup_start_min": 57.9116,
+      "pickup_complete_min": 58.6116,
+      "deposit_wait_min": 0.0,
+      "student_queue_wait_min": 0.0,
+      "total_queue_wait_min": 0.0,
+      "pickup_service_min": 0.7,
+      "arrival_to_pickup_min": 16.200000000000003,
+      "order_time_min": 22.4116,
+      "order_to_pickup_min": 36.2
+    },
+    {
+      "id": "d2-0048",
+      "locker_id": "A",
+      "arrival_min": 51.7792,
+      "stored_min": 51.7792,
+      "student_arrival_min": 58.2792,
+      "pickup_start_min": 58.2792,
+      "pickup_complete_min": 58.979200000000006,
+      "deposit_wait_min": 0.0,
+      "student_queue_wait_min": 0.0,
+      "total_queue_wait_min": 0.0,
+      "pickup_service_min": 0.7,
+      "arrival_to_pickup_min": 7.200000000000003,
+      "order_time_min": 16.779200000000003,
+      "order_to_pickup_min": 42.2
+    },
+    {
+      "id": "d2-0052",
+      "locker_id": "A",
+      "arrival_min": 53.2412,
+      "stored_min": 54.1198,
+      "student_arrival_min": 58.6198,
+      "pickup_start_min": 58.6198,
+      "pickup_complete_min": 59.3198,
+      "deposit_wait_min": 0.8785999999999987,
+      "student_queue_wait_min": 0.0,
+      "total_queue_wait_min": 0.8785999999999987,
+      "pickup_service_min": 0.7,
+      "arrival_to_pickup_min": 6.078600000000002,
+      "order_time_min": 18.2412,
+      "order_to_pickup_min": 41.0786
+    },
+    {
+      "id": "d2-0053",
+      "locker_id": "A",
+      "arrival_min": 54.4855,
+      "stored_min": 55.067,
+      "student_arrival_min": 59.567,
+      "pickup_start_min": 59.567,
+      "pickup_complete_min": 60.267,
+      "deposit_wait_min": 0.5814999999999984,
+      "student_queue_wait_min": 0.0,
+      "total_queue_wait_min": 0.5814999999999984,
+      "pickup_service_min": 0.7,
+      "arrival_to_pickup_min": 5.781500000000001,
+      "order_time_min": 19.485500000000002,
+      "order_to_pickup_min": 40.7815
+    },
+    {
+      "id": "d2-0046",
+      "locker_id": "A",
+      "arrival_min": 50.548,
+      "stored_min": 50.548,
+      "student_arrival_min": 61.048,
+      "pickup_start_min": 61.048,
+      "pickup_complete_min": 61.348,
+      "deposit_wait_min": 0.0,
+      "student_queue_wait_min": 0.0,
+      "total_queue_wait_min": 0.0,
+      "pickup_service_min": 0.3,
+      "arrival_to_pickup_min": 10.799999999999997,
+      "order_time_min": 30.548000000000002,
+      "order_to_pickup_min": 30.799999999999997
+    },
+    {
+      "id": "d2-0055",
+      "locker_id": "A",
+      "arrival_min": 55.8676,
+      "stored_min": 56.8431,
+      "student_arrival_min": 61.0431,
+      "pickup_start_min": 61.0431,
+      "pickup_complete_min": 61.5431,
+      "deposit_wait_min": 0.9754999999999967,
+      "student_queue_wait_min": 0.0,
+      "total_queue_wait_min": 0.9754999999999967,
+      "pickup_service_min": 0.5,
+      "arrival_to_pickup_min": 5.6754999999999995,
+      "order_time_min": 25.867600000000003,
+      "order_to_pickup_min": 35.6755
+    },
+    {
+      "id": "d2-0042",
+      "locker_id": "A",
+      "arrival_min": 49.293,
+      "stored_min": 49.293,
+      "student_arrival_min": 61.793,
+      "pickup_start_min": 61.793,
+      "pickup_complete_min": 62.493,
+      "deposit_wait_min": 0.0,
+      "student_queue_wait_min": 0.0,
+      "total_queue_wait_min": 0.0,
+      "pickup_service_min": 0.7,
+      "arrival_to_pickup_min": 13.200000000000003,
+      "order_time_min": 19.293,
+      "order_to_pickup_min": 43.2
+    },
+    {
+      "id": "d2-0044",
+      "locker_id": "A",
+      "arrival_min": 50.1489,
+      "stored_min": 50.1489,
+      "student_arrival_min": 62.3489,
+      "pickup_start_min": 62.3489,
+      "pickup_complete_min": 62.8489,
+      "deposit_wait_min": 0.0,
+      "student_queue_wait_min": 0.0,
+      "total_queue_wait_min": 0.0,
+      "pickup_service_min": 0.5,
+      "arrival_to_pickup_min": 12.700000000000003,
+      "order_time_min": 25.148899999999998,
+      "order_to_pickup_min": 37.7
+    },
+    {
+      "id": "d2-0056",
+      "locker_id": "A",
+      "arrival_min": 56.0106,
+      "stored_min": 56.9767,
+      "student_arrival_min": 63.176700000000004,
+      "pickup_start_min": 63.176700000000004,
+      "pickup_complete_min": 63.676700000000004,
+      "deposit_wait_min": 0.9661000000000044,
+      "student_queue_wait_min": 0.0,
+      "total_queue_wait_min": 0.9661000000000044,
+      "pickup_service_min": 0.5,
+      "arrival_to_pickup_min": 7.666100000000007,
+      "order_time_min": 26.010599999999997,
+      "order_to_pickup_min": 37.66610000000001
+    },
+    {
+      "id": "d2-0059",
+      "locker_id": "A",
+      "arrival_min": 57.8896,
+      "stored_min": 58.6116,
+      "student_arrival_min": 63.1116,
+      "pickup_start_min": 63.1116,
+      "pickup_complete_min": 63.811600000000006,
+      "deposit_wait_min": 0.7220000000000013,
+      "student_queue_wait_min": 0.0,
+      "total_queue_wait_min": 0.7220000000000013,
+      "pickup_service_min": 0.7,
+      "arrival_to_pickup_min": 5.922000000000004,
+      "order_time_min": 32.8896,
+      "order_to_pickup_min": 30.922000000000004
+    },
+    {
+      "id": "d2-0050",
+      "locker_id": "A",
+      "arrival_min": 52.8296,
+      "stored_min": 53.0132,
+      "student_arrival_min": 63.2132,
+      "pickup_start_min": 63.676700000000004,
+      "pickup_complete_min": 64.3767,
+      "deposit_wait_min": 0.18359999999999843,
+      "student_queue_wait_min": 0.46350000000000335,
+      "total_queue_wait_min": 0.6471000000000018,
+      "pickup_service_min": 0.7,
+      "arrival_to_pickup_min": 11.5471,
+      "order_time_min": 22.8296,
+      "order_to_pickup_min": 41.5471
+    },
+    {
+      "id": "d2-0049",
+      "locker_id": "A",
+      "arrival_min": 52.1929,
+      "stored_min": 52.8431,
+      "student_arrival_min": 65.0431,
+      "pickup_start_min": 65.0431,
+      "pickup_complete_min": 65.34309999999999,
+      "deposit_wait_min": 0.6501999999999981,
+      "student_queue_wait_min": 0.0,
+      "total_queue_wait_min": 0.6501999999999981,
+      "pickup_service_min": 0.3,
+      "arrival_to_pickup_min": 13.150199999999991,
+      "order_time_min": 27.1929,
+      "order_to_pickup_min": 38.15019999999999
+    },
+    {
+      "id": "d2-0054",
+      "locker_id": "A",
+      "arrival_min": 55.5139,
+      "stored_min": 56.58030000000001,
+      "student_arrival_min": 65.08030000000001,
+      "pickup_start_min": 65.08030000000001,
+      "pickup_complete_min": 65.78030000000001,
+      "deposit_wait_min": 1.0664000000000087,
+      "student_queue_wait_min": 0.0,
+      "total_queue_wait_min": 1.0664000000000016,
+      "pickup_service_min": 0.7,
+      "arrival_to_pickup_min": 10.266400000000012,
+      "order_time_min": 30.5139,
+      "order_to_pickup_min": 35.26640000000001
+    },
+    {
+      "id": "d2-0043",
+      "locker_id": "A",
+      "arrival_min": 50.0596,
+      "stored_min": 50.0596,
+      "student_arrival_min": 65.2596,
+      "pickup_start_min": 65.34309999999999,
+      "pickup_complete_min": 66.0431,
+      "deposit_wait_min": 0.0,
+      "student_queue_wait_min": 0.08349999999998658,
+      "total_queue_wait_min": 0.08349999999998658,
+      "pickup_service_min": 0.7,
+      "arrival_to_pickup_min": 15.983499999999992,
+      "order_time_min": 25.059600000000003,
+      "order_to_pickup_min": 40.98349999999999
+    },
+    {
+      "id": "d2-0061",
+      "locker_id": "A",
+      "arrival_min": 58.1052,
+      "stored_min": 59.3198,
+      "student_arrival_min": 65.8198,
+      "pickup_start_min": 65.8198,
+      "pickup_complete_min": 66.1198,
+      "deposit_wait_min": 1.2145999999999972,
+      "student_queue_wait_min": 0.0,
+      "total_queue_wait_min": 1.2146000000000043,
+      "pickup_service_min": 0.3,
+      "arrival_to_pickup_min": 8.014599999999994,
+      "order_time_min": 33.1052,
+      "order_to_pickup_min": 33.014599999999994
+    },
+    {
+      "id": "d2-0051",
+      "locker_id": "A",
+      "arrival_min": 53.117,
+      "stored_min": 53.876999999999995,
+      "student_arrival_min": 66.077,
+      "pickup_start_min": 66.1198,
+      "pickup_complete_min": 66.6198,
+      "deposit_wait_min": 0.759999999999998,
+      "student_queue_wait_min": 0.04279999999999973,
+      "total_queue_wait_min": 0.8027999999999906,
+      "pickup_service_min": 0.5,
+      "arrival_to_pickup_min": 13.5028,
+      "order_time_min": 33.117,
+      "order_to_pickup_min": 33.5028
+    },
+    {
+      "id": "d2-0063",
+      "locker_id": "A",
+      "arrival_min": 59.8662,
+      "stored_min": 61.348,
+      "student_arrival_min": 65.848,
+      "pickup_start_min": 66.0431,
+      "pickup_complete_min": 66.7431,
+      "deposit_wait_min": 1.4817999999999998,
+      "student_queue_wait_min": 0.1950999999999965,
+      "total_queue_wait_min": 1.6769000000000034,
+      "pickup_service_min": 0.7,
+      "arrival_to_pickup_min": 6.876899999999999,
+      "order_time_min": 24.8662,
+      "order_to_pickup_min": 41.8769
+    },
+    {
+      "id": "d2-0062",
+      "locker_id": "A",
+      "arrival_min": 59.0502,
+      "stored_min": 60.267,
+      "student_arrival_min": 66.467,
+      "pickup_start_min": 66.6198,
+      "pickup_complete_min": 67.3198,
+      "deposit_wait_min": 1.2168000000000063,
+      "student_queue_wait_min": 0.15279999999999916,
+      "total_queue_wait_min": 1.3696000000000055,
+      "pickup_service_min": 0.7,
+      "arrival_to_pickup_min": 8.269600000000004,
+      "order_time_min": 29.050199999999997,
+      "order_to_pickup_min": 38.269600000000004
+    },
+    {
+      "id": "d2-0066",
+      "locker_id": "A",
+      "arrival_min": 63.8354,
+      "stored_min": 63.8354,
+      "student_arrival_min": 67.83539999999999,
+      "pickup_start_min": 67.83539999999999,
+      "pickup_complete_min": 68.13539999999999,
+      "deposit_wait_min": 0.0,
+      "student_queue_wait_min": 0.0,
+      "total_queue_wait_min": 0.0,
+      "pickup_service_min": 0.3,
+      "arrival_to_pickup_min": 4.29999999999999,
+      "order_time_min": 38.8354,
+      "order_to_pickup_min": 29.29999999999999
+    },
+    {
+      "id": "d2-0067",
+      "locker_id": "A",
+      "arrival_min": 64.5588,
+      "stored_min": 64.5588,
+      "student_arrival_min": 69.0588,
+      "pickup_start_min": 69.0588,
+      "pickup_complete_min": 69.3588,
+      "deposit_wait_min": 0.0,
+      "student_queue_wait_min": 0.0,
+      "total_queue_wait_min": 0.0,
+      "pickup_service_min": 0.3,
+      "arrival_to_pickup_min": 4.799999999999997,
+      "order_time_min": 34.558800000000005,
+      "order_to_pickup_min": 34.8
+    },
+    {
+      "id": "d2-0058",
+      "locker_id": "A",
+      "arrival_min": 57.6189,
+      "stored_min": 58.0542,
+      "student_arrival_min": 70.2542,
+      "pickup_start_min": 70.2542,
+      "pickup_complete_min": 70.5542,
+      "deposit_wait_min": 0.4353000000000051,
+      "student_queue_wait_min": 0.0,
+      "total_queue_wait_min": 0.43530000000001223,
+      "pickup_service_min": 0.3,
+      "arrival_to_pickup_min": 12.935299999999998,
+      "order_time_min": 37.6189,
+      "order_to_pickup_min": 32.9353
+    },
+    {
+      "id": "d2-0065",
+      "locker_id": "A",
+      "arrival_min": 61.7,
+      "stored_min": 62.493,
+      "student_arrival_min": 70.493,
+      "pickup_start_min": 70.493,
+      "pickup_complete_min": 70.993,
+      "deposit_wait_min": 0.7929999999999993,
+      "student_queue_wait_min": 0.0,
+      "total_queue_wait_min": 0.7930000000000064,
+      "pickup_service_min": 0.5,
+      "arrival_to_pickup_min": 9.292999999999992,
+      "order_time_min": 26.700000000000003,
+      "order_to_pickup_min": 44.29299999999999
+    },
+    {
+      "id": "d2-0064",
+      "locker_id": "A",
+      "arrival_min": 60.0931,
+      "stored_min": 61.5431,
+      "student_arrival_min": 71.7431,
+      "pickup_start_min": 71.7431,
+      "pickup_complete_min": 72.0431,
+      "deposit_wait_min": 1.4500000000000028,
+      "student_queue_wait_min": 0.0,
+      "total_queue_wait_min": 1.4500000000000028,
+      "pickup_service_min": 0.3,
+      "arrival_to_pickup_min": 11.949999999999996,
+      "order_time_min": 30.0931,
+      "order_to_pickup_min": 41.949999999999996
+    },
+    {
+      "id": "d2-0057",
+      "locker_id": "A",
+      "arrival_min": 56.737,
+      "stored_min": 57.1431,
+      "student_arrival_min": 72.1431,
+      "pickup_start_min": 72.1431,
+      "pickup_complete_min": 72.8431,
+      "deposit_wait_min": 0.406099999999995,
+      "student_queue_wait_min": 0.0,
+      "total_queue_wait_min": 0.406099999999995,
+      "pickup_service_min": 0.7,
+      "arrival_to_pickup_min": 16.106100000000005,
+      "order_time_min": 26.737000000000002,
+      "order_to_pickup_min": 46.106100000000005
+    },
+    {
+      "id": "d2-0069",
+      "locker_id": "A",
+      "arrival_min": 66.8536,
+      "stored_min": 66.8536,
+      "student_arrival_min": 73.3536,
+      "pickup_start_min": 73.3536,
+      "pickup_complete_min": 73.6536,
+      "deposit_wait_min": 0.0,
+      "student_queue_wait_min": 0.0,
+      "total_queue_wait_min": 0.0,
+      "pickup_service_min": 0.3,
+      "arrival_to_pickup_min": 6.799999999999997,
+      "order_time_min": 31.8536,
+      "order_to_pickup_min": 41.8
+    },
+    {
+      "id": "d2-0060",
+      "locker_id": "A",
+      "arrival_min": 58.0633,
+      "stored_min": 58.979200000000006,
+      "student_arrival_min": 74.17920000000001,
+      "pickup_start_min": 74.17920000000001,
+      "pickup_complete_min": 74.87920000000001,
+      "deposit_wait_min": 0.9159000000000077,
+      "student_queue_wait_min": 0.0,
+      "total_queue_wait_min": 0.9159000000000077,
+      "pickup_service_min": 0.7,
+      "arrival_to_pickup_min": 16.815900000000013,
+      "order_time_min": 28.063299999999998,
+      "order_to_pickup_min": 46.81590000000001
+    },
+    {
+      "id": "d2-0068",
+      "locker_id": "A",
+      "arrival_min": 66.049,
+      "stored_min": 66.049,
+      "student_arrival_min": 76.549,
+      "pickup_start_min": 76.549,
+      "pickup_complete_min": 76.849,
+      "deposit_wait_min": 0.0,
+      "student_queue_wait_min": 0.0,
+      "total_queue_wait_min": 0.0,
+      "pickup_service_min": 0.3,
+      "arrival_to_pickup_min": 10.799999999999997,
+      "order_time_min": 46.04900000000001,
+      "order_to_pickup_min": 30.799999999999997
+    },
+    {
+      "id": "d2-0071",
+      "locker_id": "A",
+      "arrival_min": 69.0647,
+      "stored_min": 69.0647,
+      "student_arrival_min": 77.0647,
+      "pickup_start_min": 77.0647,
+      "pickup_complete_min": 77.7647,
+      "deposit_wait_min": 0.0,
+      "student_queue_wait_min": 0.0,
+      "total_queue_wait_min": 0.0,
+      "pickup_service_min": 0.7,
+      "arrival_to_pickup_min": 8.700000000000003,
+      "order_time_min": 44.0647,
+      "order_to_pickup_min": 33.7
+    },
+    {
+      "id": "d2-0077",
+      "locker_id": "A",
+      "arrival_min": 74.0557,
+      "stored_min": 74.0557,
+      "student_arrival_min": 78.2557,
+      "pickup_start_min": 78.2557,
+      "pickup_complete_min": 78.5557,
+      "deposit_wait_min": 0.0,
+      "student_queue_wait_min": 0.0,
+      "total_queue_wait_min": 0.0,
+      "pickup_service_min": 0.3,
+      "arrival_to_pickup_min": 4.5,
+      "order_time_min": 39.0557,
+      "order_to_pickup_min": 39.5
+    },
+    {
+      "id": "d2-0070",
+      "locker_id": "A",
+      "arrival_min": 68.0237,
+      "stored_min": 68.0237,
+      "student_arrival_min": 78.5237,
+      "pickup_start_min": 78.5237,
+      "pickup_complete_min": 79.22370000000001,
+      "deposit_wait_min": 0.0,
+      "student_queue_wait_min": 0.0,
+      "total_queue_wait_min": 0.0,
+      "pickup_service_min": 0.7,
+      "arrival_to_pickup_min": 11.200000000000003,
+      "order_time_min": 38.023700000000005,
+      "order_to_pickup_min": 41.2
+    },
+    {
+      "id": "d2-0078",
+      "locker_id": "A",
+      "arrival_min": 75.1039,
+      "stored_min": 75.1039,
+      "student_arrival_min": 79.1039,
+      "pickup_start_min": 79.1039,
+      "pickup_complete_min": 79.6039,
+      "deposit_wait_min": 0.0,
+      "student_queue_wait_min": 0.0,
+      "total_queue_wait_min": 0.0,
+      "pickup_service_min": 0.5,
+      "arrival_to_pickup_min": 4.5,
+      "order_time_min": 40.103899999999996,
+      "order_to_pickup_min": 39.5
+    },
+    {
+      "id": "d2-0072",
+      "locker_id": "A",
+      "arrival_min": 69.4557,
+      "stored_min": 69.4557,
+      "student_arrival_min": 79.9557,
+      "pickup_start_min": 79.9557,
+      "pickup_complete_min": 80.25569999999999,
+      "deposit_wait_min": 0.0,
+      "student_queue_wait_min": 0.0,
+      "total_queue_wait_min": 0.0,
+      "pickup_service_min": 0.3,
+      "arrival_to_pickup_min": 10.799999999999997,
+      "order_time_min": 49.45569999999999,
+      "order_to_pickup_min": 30.799999999999997
+    },
+    {
+      "id": "d2-0081",
+      "locker_id": "A",
+      "arrival_min": 77.0322,
+      "stored_min": 77.0322,
+      "student_arrival_min": 81.0322,
+      "pickup_start_min": 81.0322,
+      "pickup_complete_min": 81.7322,
+      "deposit_wait_min": 0.0,
+      "student_queue_wait_min": 0.0,
+      "total_queue_wait_min": 0.0,
+      "pickup_service_min": 0.7,
+      "arrival_to_pickup_min": 4.700000000000003,
+      "order_time_min": 42.0322,
+      "order_to_pickup_min": 39.7
+    },
+    {
+      "id": "d2-0083",
+      "locker_id": "A",
+      "arrival_min": 78.0154,
+      "stored_min": 78.0154,
+      "student_arrival_min": 82.0154,
+      "pickup_start_min": 82.0154,
+      "pickup_complete_min": 82.5154,
+      "deposit_wait_min": 0.0,
+      "student_queue_wait_min": 0.0,
+      "total_queue_wait_min": 0.0,
+      "pickup_service_min": 0.5,
+      "arrival_to_pickup_min": 4.5,
+      "order_time_min": 43.0154,
+      "order_to_pickup_min": 39.5
+    },
+    {
+      "id": "d2-0082",
+      "locker_id": "A",
+      "arrival_min": 77.7276,
+      "stored_min": 77.7276,
+      "student_arrival_min": 82.2276,
+      "pickup_start_min": 82.2276,
+      "pickup_complete_min": 82.52759999999999,
+      "deposit_wait_min": 0.0,
+      "student_queue_wait_min": 0.0,
+      "total_queue_wait_min": 0.0,
+      "pickup_service_min": 0.3,
+      "arrival_to_pickup_min": 4.799999999999997,
+      "order_time_min": 57.727599999999995,
+      "order_to_pickup_min": 24.799999999999997
+    },
+    {
+      "id": "d2-0076",
+      "locker_id": "A",
+      "arrival_min": 73.7957,
+      "stored_min": 73.7957,
+      "student_arrival_min": 83.9957,
+      "pickup_start_min": 83.9957,
+      "pickup_complete_min": 84.6957,
+      "deposit_wait_min": 0.0,
+      "student_queue_wait_min": 0.0,
+      "total_queue_wait_min": 0.0,
+      "pickup_service_min": 0.7,
+      "arrival_to_pickup_min": 10.900000000000006,
+      "order_time_min": 53.7957,
+      "order_to_pickup_min": 30.900000000000006
+    },
+    {
+      "id": "d2-0073",
+      "locker_id": "A",
+      "arrival_min": 71.4805,
+      "stored_min": 71.4805,
+      "student_arrival_min": 86.9805,
+      "pickup_start_min": 86.9805,
+      "pickup_complete_min": 87.68050000000001,
+      "deposit_wait_min": 0.0,
+      "student_queue_wait_min": 0.0,
+      "total_queue_wait_min": 0.0,
+      "pickup_service_min": 0.7,
+      "arrival_to_pickup_min": 16.200000000000003,
+      "order_time_min": 46.480500000000006,
+      "order_to_pickup_min": 41.2
+    },
+    {
+      "id": "d2-0074",
+      "locker_id": "A",
+      "arrival_min": 72.3466,
+      "stored_min": 72.3466,
+      "student_arrival_min": 87.3466,
+      "pickup_start_min": 87.3466,
+      "pickup_complete_min": 87.8466,
+      "deposit_wait_min": 0.0,
+      "student_queue_wait_min": 0.0,
+      "total_queue_wait_min": 0.0,
+      "pickup_service_min": 0.5,
+      "arrival_to_pickup_min": 15.5,
+      "order_time_min": 42.346599999999995,
+      "order_to_pickup_min": 45.5
+    },
+    {
+      "id": "d2-0075",
+      "locker_id": "A",
+      "arrival_min": 72.5059,
+      "stored_min": 72.5059,
+      "student_arrival_min": 87.7059,
+      "pickup_start_min": 87.7059,
+      "pickup_complete_min": 88.4059,
+      "deposit_wait_min": 0.0,
+      "student_queue_wait_min": 0.0,
+      "total_queue_wait_min": 0.0,
+      "pickup_service_min": 0.7,
+      "arrival_to_pickup_min": 15.900000000000006,
+      "order_time_min": 47.5059,
+      "order_to_pickup_min": 40.900000000000006
+    },
+    {
+      "id": "d2-0079",
+      "locker_id": "A",
+      "arrival_min": 75.8546,
+      "stored_min": 75.8546,
+      "student_arrival_min": 87.8546,
+      "pickup_start_min": 87.8546,
+      "pickup_complete_min": 88.55460000000001,
+      "deposit_wait_min": 0.0,
+      "student_queue_wait_min": 0.0,
+      "total_queue_wait_min": 0.0,
+      "pickup_service_min": 0.7,
+      "arrival_to_pickup_min": 12.700000000000003,
+      "order_time_min": 45.854600000000005,
+      "order_to_pickup_min": 42.7
+    },
+    {
+      "id": "d2-0080",
+      "locker_id": "A",
+      "arrival_min": 76.9914,
+      "stored_min": 76.9914,
+      "student_arrival_min": 88.9914,
+      "pickup_start_min": 88.9914,
+      "pickup_complete_min": 89.2914,
+      "deposit_wait_min": 0.0,
+      "student_queue_wait_min": 0.0,
+      "total_queue_wait_min": 0.0,
+      "pickup_service_min": 0.3,
+      "arrival_to_pickup_min": 12.299999999999997,
+      "order_time_min": 56.9914,
+      "order_to_pickup_min": 32.3
+    },
+    {
+      "id": "d2-0088",
+      "locker_id": "A",
+      "arrival_min": 82.8454,
+      "stored_min": 82.8454,
+      "student_arrival_min": 89.0454,
+      "pickup_start_min": 89.0454,
+      "pickup_complete_min": 89.5454,
+      "deposit_wait_min": 0.0,
+      "student_queue_wait_min": 0.0,
+      "total_queue_wait_min": 0.0,
+      "pickup_service_min": 0.5,
+      "arrival_to_pickup_min": 6.700000000000003,
+      "order_time_min": 62.8454,
+      "order_to_pickup_min": 26.700000000000003
+    },
+    {
+      "id": "d2-0084",
+      "locker_id": "A",
+      "arrival_min": 78.3549,
+      "stored_min": 78.3549,
+      "student_arrival_min": 90.3549,
+      "pickup_start_min": 90.3549,
+      "pickup_complete_min": 90.6549,
+      "deposit_wait_min": 0.0,
+      "student_queue_wait_min": 0.0,
+      "total_queue_wait_min": 0.0,
+      "pickup_service_min": 0.3,
+      "arrival_to_pickup_min": 12.299999999999997,
+      "order_time_min": 43.3549,
+      "order_to_pickup_min": 47.3
+    },
+    {
+      "id": "d2-0089",
+      "locker_id": "A",
+      "arrival_min": 84.3616,
+      "stored_min": 84.3616,
+      "student_arrival_min": 90.5616,
+      "pickup_start_min": 90.5616,
+      "pickup_complete_min": 90.8616,
+      "deposit_wait_min": 0.0,
+      "student_queue_wait_min": 0.0,
+      "total_queue_wait_min": 0.0,
+      "pickup_service_min": 0.3,
+      "arrival_to_pickup_min": 6.5,
+      "order_time_min": 49.361599999999996,
+      "order_to_pickup_min": 41.5
+    },
+    {
+      "id": "d2-0086",
+      "locker_id": "A",
+      "arrival_min": 79.1651,
+      "stored_min": 79.1651,
+      "student_arrival_min": 91.1651,
+      "pickup_start_min": 91.1651,
+      "pickup_complete_min": 91.46509999999999,
+      "deposit_wait_min": 0.0,
+      "student_queue_wait_min": 0.0,
+      "total_queue_wait_min": 0.0,
+      "pickup_service_min": 0.3,
+      "arrival_to_pickup_min": 12.299999999999997,
+      "order_time_min": 59.165099999999995,
+      "order_to_pickup_min": 32.3
+    },
+    {
+      "id": "d2-0087",
+      "locker_id": "A",
+      "arrival_min": 79.7327,
+      "stored_min": 79.7327,
+      "student_arrival_min": 92.2327,
+      "pickup_start_min": 92.2327,
+      "pickup_complete_min": 92.9327,
+      "deposit_wait_min": 0.0,
+      "student_queue_wait_min": 0.0,
+      "total_queue_wait_min": 0.0,
+      "pickup_service_min": 0.7,
+      "arrival_to_pickup_min": 13.200000000000003,
+      "order_time_min": 59.732699999999994,
+      "order_to_pickup_min": 33.2
+    },
+    {
+      "id": "d2-0085",
+      "locker_id": "A",
+      "arrival_min": 78.9691,
+      "stored_min": 78.9691,
+      "student_arrival_min": 94.1691,
+      "pickup_start_min": 94.1691,
+      "pickup_complete_min": 94.6691,
+      "deposit_wait_min": 0.0,
+      "student_queue_wait_min": 0.0,
+      "total_queue_wait_min": 0.0,
+      "pickup_service_min": 0.5,
+      "arrival_to_pickup_min": 15.700000000000003,
+      "order_time_min": 58.9691,
+      "order_to_pickup_min": 35.7
+    },
+    {
+      "id": "d2-0094",
+      "locker_id": "A",
+      "arrival_min": 93.277,
+      "stored_min": 93.277,
+      "student_arrival_min": 97.277,
+      "pickup_start_min": 97.277,
+      "pickup_complete_min": 97.777,
+      "deposit_wait_min": 0.0,
+      "student_queue_wait_min": 0.0,
+      "total_queue_wait_min": 0.0,
+      "pickup_service_min": 0.5,
+      "arrival_to_pickup_min": 4.5,
+      "order_time_min": 73.277,
+      "order_to_pickup_min": 24.5
+    },
+    {
+      "id": "d2-0091",
+      "locker_id": "A",
+      "arrival_min": 88.3359,
+      "stored_min": 88.3359,
+      "student_arrival_min": 98.5359,
+      "pickup_start_min": 98.5359,
+      "pickup_complete_min": 99.0359,
+      "deposit_wait_min": 0.0,
+      "student_queue_wait_min": 0.0,
+      "total_queue_wait_min": 0.0,
+      "pickup_service_min": 0.5,
+      "arrival_to_pickup_min": 10.700000000000003,
+      "order_time_min": 68.3359,
+      "order_to_pickup_min": 30.700000000000003
+    },
+    {
+      "id": "d2-0096",
+      "locker_id": "A",
+      "arrival_min": 95.4592,
+      "stored_min": 95.4592,
+      "student_arrival_min": 101.4592,
+      "pickup_start_min": 101.4592,
+      "pickup_complete_min": 101.75919999999999,
+      "deposit_wait_min": 0.0,
+      "student_queue_wait_min": 0.0,
+      "total_queue_wait_min": 0.0,
+      "pickup_service_min": 0.3,
+      "arrival_to_pickup_min": 6.299999999999997,
+      "order_time_min": 70.4592,
+      "order_to_pickup_min": 31.299999999999997
+    },
+    {
+      "id": "d2-0095",
+      "locker_id": "A",
+      "arrival_min": 93.9313,
+      "stored_min": 93.9313,
+      "student_arrival_min": 102.4313,
+      "pickup_start_min": 102.4313,
+      "pickup_complete_min": 102.73129999999999,
+      "deposit_wait_min": 0.0,
+      "student_queue_wait_min": 0.0,
+      "total_queue_wait_min": 0.0,
+      "pickup_service_min": 0.3,
+      "arrival_to_pickup_min": 8.799999999999997,
+      "order_time_min": 63.93129999999999,
+      "order_to_pickup_min": 38.8
+    },
+    {
+      "id": "d2-0090",
+      "locker_id": "A",
+      "arrival_min": 87.3931,
+      "stored_min": 87.3931,
+      "student_arrival_min": 102.3931,
+      "pickup_start_min": 102.3931,
+      "pickup_complete_min": 102.8931,
+      "deposit_wait_min": 0.0,
+      "student_queue_wait_min": 0.0,
+      "total_queue_wait_min": 0.0,
+      "pickup_service_min": 0.5,
+      "arrival_to_pickup_min": 15.5,
+      "order_time_min": 62.393100000000004,
+      "order_to_pickup_min": 40.5
+    },
+    {
+      "id": "d2-0092",
+      "locker_id": "A",
+      "arrival_min": 88.3369,
+      "stored_min": 88.3369,
+      "student_arrival_min": 103.5369,
+      "pickup_start_min": 103.5369,
+      "pickup_complete_min": 103.8369,
+      "deposit_wait_min": 0.0,
+      "student_queue_wait_min": 0.0,
+      "total_queue_wait_min": 0.0,
+      "pickup_service_min": 0.3,
+      "arrival_to_pickup_min": 15.5,
+      "order_time_min": 68.3369,
+      "order_to_pickup_min": 35.5
+    },
+    {
+      "id": "d2-0093",
+      "locker_id": "A",
+      "arrival_min": 91.0311,
+      "stored_min": 91.0311,
+      "student_arrival_min": 106.5311,
+      "pickup_start_min": 106.5311,
+      "pickup_complete_min": 107.2311,
+      "deposit_wait_min": 0.0,
+      "student_queue_wait_min": 0.0,
+      "total_queue_wait_min": 0.0,
+      "pickup_service_min": 0.7,
+      "arrival_to_pickup_min": 16.200000000000003,
+      "order_time_min": 56.031099999999995,
+      "order_to_pickup_min": 51.2
+    },
+    {
+      "id": "d2-0097",
+      "locker_id": "A",
+      "arrival_min": 100.1423,
+      "stored_min": 100.1423,
+      "student_arrival_min": 110.6423,
+      "pickup_start_min": 110.6423,
+      "pickup_complete_min": 110.9423,
+      "deposit_wait_min": 0.0,
+      "student_queue_wait_min": 0.0,
+      "total_queue_wait_min": 0.0,
+      "pickup_service_min": 0.3,
+      "arrival_to_pickup_min": 10.799999999999997,
+      "order_time_min": 80.1423,
+      "order_to_pickup_min": 30.799999999999997
+    },
+    {
+      "id": "d2-0098",
+      "locker_id": "A",
+      "arrival_min": 105.4857,
+      "stored_min": 105.4857,
+      "student_arrival_min": 111.6857,
+      "pickup_start_min": 111.6857,
+      "pickup_complete_min": 112.1857,
+      "deposit_wait_min": 0.0,
+      "student_queue_wait_min": 0.0,
+      "total_queue_wait_min": 0.0,
+      "pickup_service_min": 0.5,
+      "arrival_to_pickup_min": 6.700000000000003,
+      "order_time_min": 85.4857,
+      "order_to_pickup_min": 26.700000000000003
+    },
+    {
+      "id": "d2-0099",
+      "locker_id": "A",
+      "arrival_min": 107.7746,
+      "stored_min": 107.7746,
+      "student_arrival_min": 113.97460000000001,
+      "pickup_start_min": 113.97460000000001,
+      "pickup_complete_min": 114.2746,
+      "deposit_wait_min": 0.0,
+      "student_queue_wait_min": 0.0,
+      "total_queue_wait_min": 0.0,
+      "pickup_service_min": 0.3,
+      "arrival_to_pickup_min": 6.5,
+      "order_time_min": 87.7746,
+      "order_to_pickup_min": 26.5
+    }
+  ],
+  "metrics": {
+    "deposit_wait_min": {
+      "count": 100,
+      "mean": 0.1779460000000001,
+      "p50": 0.0,
+      "p90": 0.7996000000000001,
+      "p95": 0.9800449999999971,
+      "max": 1.4817999999999998
+    },
+    "student_queue_wait_min": {
+      "count": 100,
+      "mean": 0.018840999999999823,
+      "p50": 0.0,
+      "p90": 0.004280000000000337,
+      "p95": 0.1645050000000036,
+      "max": 0.46350000000000335
+    },
+    "total_queue_wait_min": {
+      "count": 100,
+      "mean": 0.19678700000000007,
+      "p50": 0.0,
+      "p90": 0.8084199999999923,
+      "p95": 0.9800449999999967,
+      "max": 1.6769000000000034
+    },
+    "arrival_to_pickup_min": {
+      "count": 100,
+      "mean": 9.648787,
+      "p50": 9.400049999999993,
+      "p90": 15.700000000000003,
+      "p95": 16.110795000000003,
+      "max": 16.815900000000013
+    }
+  },
+  "lockers": [
+    {
+      "locker_id": "A",
+      "utilization": 0.49327296875000026,
+      "full_time_fraction": 0.13210916666666664,
+      "max_delivery_queue": 3,
+      "max_pickup_queue": 2
+    }
+  ],
+  "trace": [
+    {
+      "time_min": 0,
+      "locker_id": "A",
+      "occupied": 0,
+      "delivery_queue": 0,
+      "pickup_queue": 0
+    },
+    {
+      "time_min": 9.1054,
+      "locker_id": "A",
+      "occupied": 1,
+      "delivery_queue": 0,
+      "pickup_queue": 0
+    },
+    {
+      "time_min": 11.6907,
+      "locker_id": "A",
+      "occupied": 2,
+      "delivery_queue": 0,
+      "pickup_queue": 0
+    },
+    {
+      "time_min": 12.7648,
+      "locker_id": "A",
+      "occupied": 3,
+      "delivery_queue": 0,
+      "pickup_queue": 0
+    },
+    {
+      "time_min": 13.0469,
+      "locker_id": "A",
+      "occupied": 4,
+      "delivery_queue": 0,
+      "pickup_queue": 0
+    },
+    {
+      "time_min": 13.1054,
+      "locker_id": "A",
+      "occupied": 4,
+      "delivery_queue": 0,
+      "pickup_queue": 0
+    },
+    {
+      "time_min": 13.805399999999999,
+      "locker_id": "A",
+      "occupied": 3,
+      "delivery_queue": 0,
+      "pickup_queue": 0
+    },
+    {
+      "time_min": 15.6263,
+      "locker_id": "A",
+      "occupied": 4,
+      "delivery_queue": 0,
+      "pickup_queue": 0
+    },
+    {
+      "time_min": 16.6967,
+      "locker_id": "A",
+      "occupied": 5,
+      "delivery_queue": 0,
+      "pickup_queue": 0
+    },
+    {
+      "time_min": 17.6299,
+      "locker_id": "A",
+      "occupied": 6,
+      "delivery_queue": 0,
+      "pickup_queue": 0
+    },
+    {
+      "time_min": 17.8907,
+      "locker_id": "A",
+      "occupied": 6,
+      "delivery_queue": 0,
+      "pickup_queue": 0
+    },
+    {
+      "time_min": 18.1907,
+      "locker_id": "A",
+      "occupied": 5,
+      "delivery_queue": 0,
+      "pickup_queue": 0
+    },
+    {
+      "time_min": 18.4194,
+      "locker_id": "A",
+      "occupied": 6,
+      "delivery_queue": 0,
+      "pickup_queue": 0
+    },
+    {
+      "time_min": 20.1995,
+      "locker_id": "A",
+      "occupied": 7,
+      "delivery_queue": 0,
+      "pickup_queue": 0
+    },
+    {
+      "time_min": 20.6967,
+      "locker_id": "A",
+      "occupied": 7,
+      "delivery_queue": 0,
+      "pickup_queue": 0
+    },
+    {
+      "time_min": 20.7444,
+      "locker_id": "A",
+      "occupied": 8,
+      "delivery_queue": 0,
+      "pickup_queue": 0
+    },
+    {
+      "time_min": 20.9967,
+      "locker_id": "A",
+      "occupied": 7,
+      "delivery_queue": 0,
+      "pickup_queue": 0
+    },
+    {
+      "time_min": 22.9194,
+      "locker_id": "A",
+      "occupied": 7,
+      "delivery_queue": 0,
+      "pickup_queue": 0
+    },
+    {
+      "time_min": 23.6194,
+      "locker_id": "A",
+      "occupied": 6,
+      "delivery_queue": 0,
+      "pickup_queue": 0
+    },
+    {
+      "time_min": 23.6299,
+      "locker_id": "A",
+      "occupied": 6,
+      "delivery_queue": 0,
+      "pickup_queue": 0
+    },
+    {
+      "time_min": 24.3299,
+      "locker_id": "A",
+      "occupied": 5,
+      "delivery_queue": 0,
+      "pickup_queue": 0
+    },
+    {
+      "time_min": 24.6417,
+      "locker_id": "A",
+      "occupied": 6,
+      "delivery_queue": 0,
+      "pickup_queue": 0
+    },
+    {
+      "time_min": 26.6786,
+      "locker_id": "A",
+      "occupied": 7,
+      "delivery_queue": 0,
+      "pickup_queue": 0
+    },
+    {
+      "time_min": 27.2035,
+      "locker_id": "A",
+      "occupied": 8,
+      "delivery_queue": 0,
+      "pickup_queue": 0
+    },
+    {
+      "time_min": 27.6263,
+      "locker_id": "A",
+      "occupied": 8,
+      "delivery_queue": 0,
+      "pickup_queue": 0
+    },
+    {
+      "time_min": 27.7108,
+      "locker_id": "A",
+      "occupied": 9,
+      "delivery_queue": 0,
+      "pickup_queue": 0
+    },
+    {
+      "time_min": 27.7648,
+      "locker_id": "A",
+      "occupied": 9,
+      "delivery_queue": 0,
+      "pickup_queue": 0
+    },
+    {
+      "time_min": 28.0648,
+      "locker_id": "A",
+      "occupied": 8,
+      "delivery_queue": 0,
+      "pickup_queue": 0
+    },
+    {
+      "time_min": 28.1263,
+      "locker_id": "A",
+      "occupied": 7,
+      "delivery_queue": 0,
+      "pickup_queue": 0
+    },
+    {
+      "time_min": 28.3908,
+      "locker_id": "A",
+      "occupied": 8,
+      "delivery_queue": 0,
+      "pickup_queue": 0
+    },
+    {
+      "time_min": 28.5469,
+      "locker_id": "A",
+      "occupied": 8,
+      "delivery_queue": 0,
+      "pickup_queue": 0
+    },
+    {
+      "time_min": 28.7041,
+      "locker_id": "A",
+      "occupied": 9,
+      "delivery_queue": 0,
+      "pickup_queue": 0
+    },
+    {
+      "time_min": 29.2469,
+      "locker_id": "A",
+      "occupied": 8,
+      "delivery_queue": 0,
+      "pickup_queue": 0
+    },
+    {
+      "time_min": 30.5211,
+      "locker_id": "A",
+      "occupied": 9,
+      "delivery_queue": 0,
+      "pickup_queue": 0
+    },
+    {
+      "time_min": 30.6801,
+      "locker_id": "A",
+      "occupied": 10,
+      "delivery_queue": 0,
+      "pickup_queue": 0
+    },
+    {
+      "time_min": 30.8786,
+      "locker_id": "A",
+      "occupied": 10,
+      "delivery_queue": 0,
+      "pickup_queue": 0
+    },
+    {
+      "time_min": 31.1786,
+      "locker_id": "A",
+      "occupied": 9,
+      "delivery_queue": 0,
+      "pickup_queue": 0
+    },
+    {
+      "time_min": 32.4411,
+      "locker_id": "A",
+      "occupied": 10,
+      "delivery_queue": 0,
+      "pickup_queue": 0
+    },
+    {
+      "time_min": 32.577,
+      "locker_id": "A",
+      "occupied": 11,
+      "delivery_queue": 0,
+      "pickup_queue": 0
+    },
+    {
+      "time_min": 32.5908,
+      "locker_id": "A",
+      "occupied": 11,
+      "delivery_queue": 0,
+      "pickup_queue": 0
+    },
+    {
+      "time_min": 32.8431,
+      "locker_id": "A",
+      "occupied": 12,
+      "delivery_queue": 0,
+      "pickup_queue": 0
+    },
+    {
+      "time_min": 32.8908,
+      "locker_id": "A",
+      "occupied": 11,
+      "delivery_queue": 0,
+      "pickup_queue": 0
+    },
+    {
+      "time_min": 32.9041,
+      "locker_id": "A",
+      "occupied": 11,
+      "delivery_queue": 0,
+      "pickup_queue": 0
+    },
+    {
+      "time_min": 33.2444,
+      "locker_id": "A",
+      "occupied": 11,
+      "delivery_queue": 0,
+      "pickup_queue": 0
+    },
+    {
+      "time_min": 33.4041,
+      "locker_id": "A",
+      "occupied": 10,
+      "delivery_queue": 0,
+      "pickup_queue": 0
+    },
+    {
+      "time_min": 33.7444,
+      "locker_id": "A",
+      "occupied": 9,
+      "delivery_queue": 0,
+      "pickup_queue": 0
+    },
+    {
+      "time_min": 33.9108,
+      "locker_id": "A",
+      "occupied": 9,
+      "delivery_queue": 0,
+      "pickup_queue": 0
+    },
+    {
+      "time_min": 34.2108,
+      "locker_id": "A",
+      "occupied": 8,
+      "delivery_queue": 0,
+      "pickup_queue": 0
+    },
+    {
+      "time_min": 34.6417,
+      "locker_id": "A",
+      "occupied": 8,
+      "delivery_queue": 0,
+      "pickup_queue": 0
+    },
+    {
+      "time_min": 34.7033,
+      "locker_id": "A",
+      "occupied": 9,
+      "delivery_queue": 0,
+      "pickup_queue": 0
+    },
+    {
+      "time_min": 35.1995,
+      "locker_id": "A",
+      "occupied": 9,
+      "delivery_queue": 0,
+      "pickup_queue": 0
+    },
+    {
+      "time_min": 35.3417,
+      "locker_id": "A",
+      "occupied": 8,
+      "delivery_queue": 0,
+      "pickup_queue": 0
+    },
+    {
+      "time_min": 35.8155,
+      "locker_id": "A",
+      "occupied": 9,
+      "delivery_queue": 0,
+      "pickup_queue": 0
+    },
+    {
+      "time_min": 35.8995,
+      "locker_id": "A",
+      "occupied": 8,
+      "delivery_queue": 0,
+      "pickup_queue": 0
+    },
+    {
+      "time_min": 36.6357,
+      "locker_id": "A",
+      "occupied": 9,
+      "delivery_queue": 0,
+      "pickup_queue": 0
+    },
+    {
+      "time_min": 36.9411,
+      "locker_id": "A",
+      "occupied": 9,
+      "delivery_queue": 0,
+      "pickup_queue": 0
+    },
+    {
+      "time_min": 37.4411,
+      "locker_id": "A",
+      "occupied": 8,
+      "delivery_queue": 0,
+      "pickup_queue": 0
+    },
+    {
+      "time_min": 37.6017,
+      "locker_id": "A",
+      "occupied": 9,
+      "delivery_queue": 0,
+      "pickup_queue": 0
+    },
+    {
+      "time_min": 37.7035,
+      "locker_id": "A",
+      "occupied": 9,
+      "delivery_queue": 0,
+      "pickup_queue": 0
+    },
+    {
+      "time_min": 38.2035,
+      "locker_id": "A",
+      "occupied": 8,
+      "delivery_queue": 0,
+      "pickup_queue": 0
+    },
+    {
+      "time_min": 39.1458,
+      "locker_id": "A",
+      "occupied": 9,
+      "delivery_queue": 0,
+      "pickup_queue": 0
+    },
+    {
+      "time_min": 39.7836,
+      "locker_id": "A",
+      "occupied": 10,
+      "delivery_queue": 0,
+      "pickup_queue": 0
+    },
+    {
+      "time_min": 39.8155,
+      "locker_id": "A",
+      "occupied": 10,
+      "delivery_queue": 0,
+      "pickup_queue": 0
+    },
+    {
+      "time_min": 39.9109,
+      "locker_id": "A",
+      "occupied": 11,
+      "delivery_queue": 0,
+      "pickup_queue": 0
+    },
+    {
+      "time_min": 40.5155,
+      "locker_id": "A",
+      "occupied": 10,
+      "delivery_queue": 0,
+      "pickup_queue": 0
+    },
+    {
+      "time_min": 40.6803,
+      "locker_id": "A",
+      "occupied": 11,
+      "delivery_queue": 0,
+      "pickup_queue": 0
+    },
+    {
+      "time_min": 40.9767,
+      "locker_id": "A",
+      "occupied": 12,
+      "delivery_queue": 0,
+      "pickup_queue": 0
+    },
+    {
+      "time_min": 41.2033,
+      "locker_id": "A",
+      "occupied": 12,
+      "delivery_queue": 0,
+      "pickup_queue": 0
+    },
+    {
+      "time_min": 41.6017,
+      "locker_id": "A",
+      "occupied": 12,
+      "delivery_queue": 0,
+      "pickup_queue": 0
+    },
+    {
+      "time_min": 41.9033,
+      "locker_id": "A",
+      "occupied": 11,
+      "delivery_queue": 0,
+      "pickup_queue": 0
+    },
+    {
+      "time_min": 42.1017,
+      "locker_id": "A",
+      "occupied": 10,
+      "delivery_queue": 0,
+      "pickup_queue": 0
+    },
+    {
+      "time_min": 42.1252,
+      "locker_id": "A",
+      "occupied": 11,
+      "delivery_queue": 0,
+      "pickup_queue": 0
+    },
+    {
+      "time_min": 42.155,
+      "locker_id": "A",
+      "occupied": 12,
+      "delivery_queue": 0,
+      "pickup_queue": 0
+    },
+    {
+      "time_min": 42.3132,
+      "locker_id": "A",
+      "occupied": 13,
+      "delivery_queue": 0,
+      "pickup_queue": 0
+    },
+    {
+      "time_min": 42.4116,
+      "locker_id": "A",
+      "occupied": 14,
+      "delivery_queue": 0,
+      "pickup_queue": 0
+    },
+    {
+      "time_min": 42.5542,
+      "locker_id": "A",
+      "occupied": 15,
+      "delivery_queue": 0,
+      "pickup_queue": 0
+    },
+    {
+      "time_min": 42.5633,
+      "locker_id": "A",
+      "occupied": 16,
+      "delivery_queue": 0,
+      "pickup_queue": 0
+    },
+    {
+      "time_min": 42.7211,
+      "locker_id": "A",
+      "occupied": 16,
+      "delivery_queue": 0,
+      "pickup_queue": 0
+    },
+    {
+      "time_min": 43.2211,
+      "locker_id": "A",
+      "occupied": 15,
+      "delivery_queue": 0,
+      "pickup_queue": 0
+    },
+    {
+      "time_min": 43.4198,
+      "locker_id": "A",
+      "occupied": 16,
+      "delivery_queue": 0,
+      "pickup_queue": 0
+    },
+    {
+      "time_min": 44.2946,
+      "locker_id": "A",
+      "occupied": 16,
+      "delivery_queue": 1,
+      "pickup_queue": 0
+    },
+    {
+      "time_min": 44.3699,
+      "locker_id": "A",
+      "occupied": 16,
+      "delivery_queue": 2,
+      "pickup_queue": 0
+    },
+    {
+      "time_min": 44.577,
+      "locker_id": "A",
+      "occupied": 16,
+      "delivery_queue": 2,
+      "pickup_queue": 0
+    },
+    {
+      "time_min": 44.6357,
+      "locker_id": "A",
+      "occupied": 16,
+      "delivery_queue": 2,
+      "pickup_queue": 0
+    },
+    {
+      "time_min": 44.9357,
+      "locker_id": "A",
+      "occupied": 15,
+      "delivery_queue": 2,
+      "pickup_queue": 0
+    },
+    {
+      "time_min": 44.9357,
+      "locker_id": "A",
+      "occupied": 16,
+      "delivery_queue": 1,
+      "pickup_queue": 0
+    },
+    {
+      "time_min": 44.9841,
+      "locker_id": "A",
+      "occupied": 16,
+      "delivery_queue": 2,
+      "pickup_queue": 0
+    },
+    {
+      "time_min": 45.077,
+      "locker_id": "A",
+      "occupied": 15,
+      "delivery_queue": 2,
+      "pickup_queue": 0
+    },
+    {
+      "time_min": 45.077,
+      "locker_id": "A",
+      "occupied": 16,
+      "delivery_queue": 1,
+      "pickup_queue": 0
+    },
+    {
+      "time_min": 45.3431,
+      "locker_id": "A",
+      "occupied": 16,
+      "delivery_queue": 1,
+      "pickup_queue": 0
+    },
+    {
+      "time_min": 45.4767,
+      "locker_id": "A",
+      "occupied": 16,
+      "delivery_queue": 1,
+      "pickup_queue": 0
+    },
+    {
+      "time_min": 45.6434,
+      "locker_id": "A",
+      "occupied": 16,
+      "delivery_queue": 2,
+      "pickup_queue": 0
+    },
+    {
+      "time_min": 45.680099999999996,
+      "locker_id": "A",
+      "occupied": 16,
+      "delivery_queue": 2,
+      "pickup_queue": 1
+    },
+    {
+      "time_min": 45.8431,
+      "locker_id": "A",
+      "occupied": 15,
+      "delivery_queue": 2,
+      "pickup_queue": 1
+    },
+    {
+      "time_min": 45.8431,
+      "locker_id": "A",
+      "occupied": 15,
+      "delivery_queue": 2,
+      "pickup_queue": 0
+    },
+    {
+      "time_min": 45.8431,
+      "locker_id": "A",
+      "occupied": 16,
+      "delivery_queue": 1,
+      "pickup_queue": 0
+    },
+    {
+      "time_min": 45.9836,
+      "locker_id": "A",
+      "occupied": 16,
+      "delivery_queue": 1,
+      "pickup_queue": 1
+    },
+    {
+      "time_min": 45.9864,
+      "locker_id": "A",
+      "occupied": 16,
+      "delivery_queue": 2,
+      "pickup_queue": 1
+    },
+    {
+      "time_min": 46.1109,
+      "locker_id": "A",
+      "occupied": 16,
+      "delivery_queue": 2,
+      "pickup_queue": 2
+    },
+    {
+      "time_min": 46.176700000000004,
+      "locker_id": "A",
+      "occupied": 15,
+      "delivery_queue": 2,
+      "pickup_queue": 2
+    },
+    {
+      "time_min": 46.176700000000004,
+      "locker_id": "A",
+      "occupied": 15,
+      "delivery_queue": 2,
+      "pickup_queue": 1
+    },
+    {
+      "time_min": 46.176700000000004,
+      "locker_id": "A",
+      "occupied": 16,
+      "delivery_queue": 1,
+      "pickup_queue": 1
+    },
+    {
+      "time_min": 46.3431,
+      "locker_id": "A",
+      "occupied": 15,
+      "delivery_queue": 1,
+      "pickup_queue": 1
+    },
+    {
+      "time_min": 46.3431,
+      "locker_id": "A",
+      "occupied": 15,
+      "delivery_queue": 1,
+      "pickup_queue": 0
+    },
+    {
+      "time_min": 46.3431,
+      "locker_id": "A",
+      "occupied": 16,
+      "delivery_queue": 0,
+      "pickup_queue": 0
+    },
+    {
+      "time_min": 46.676700000000004,
+      "locker_id": "A",
+      "occupied": 15,
+      "delivery_queue": 0,
+      "pickup_queue": 0
+    },
+    {
+      "time_min": 47.0431,
+      "locker_id": "A",
+      "occupied": 14,
+      "delivery_queue": 0,
+      "pickup_queue": 0
+    },
+    {
+      "time_min": 48.5633,
+      "locker_id": "A",
+      "occupied": 14,
+      "delivery_queue": 0,
+      "pickup_queue": 0
+    },
+    {
+      "time_min": 48.6252,
+      "locker_id": "A",
+      "occupied": 14,
+      "delivery_queue": 0,
+      "pickup_queue": 0
+    },
+    {
+      "time_min": 48.655,
+      "locker_id": "A",
+      "occupied": 14,
+      "delivery_queue": 0,
+      "pickup_queue": 1
+    },
+    {
+      "time_min": 48.863299999999995,
+      "locker_id": "A",
+      "occupied": 13,
+      "delivery_queue": 0,
+      "pickup_queue": 1
+    },
+    {
+      "time_min": 48.863299999999995,
+      "locker_id": "A",
+      "occupied": 13,
+      "delivery_queue": 0,
+      "pickup_queue": 0
+    },
+    {
+      "time_min": 49.16329999999999,
+      "locker_id": "A",
+      "occupied": 12,
+      "delivery_queue": 0,
+      "pickup_queue": 0
+    },
+    {
+      "time_min": 49.293,
+      "locker_id": "A",
+      "occupied": 13,
+      "delivery_queue": 0,
+      "pickup_queue": 0
+    },
+    {
+      "time_min": 49.3252,
+      "locker_id": "A",
+      "occupied": 12,
+      "delivery_queue": 0,
+      "pickup_queue": 0
+    },
+    {
+      "time_min": 49.3458,
+      "locker_id": "A",
+      "occupied": 12,
+      "delivery_queue": 0,
+      "pickup_queue": 0
+    },
+    {
+      "time_min": 50.0458,
+      "locker_id": "A",
+      "occupied": 11,
+      "delivery_queue": 0,
+      "pickup_queue": 0
+    },
+    {
+      "time_min": 50.0596,
+      "locker_id": "A",
+      "occupied": 12,
+      "delivery_queue": 0,
+      "pickup_queue": 0
+    },
+    {
+      "time_min": 50.1489,
+      "locker_id": "A",
+      "occupied": 13,
+      "delivery_queue": 0,
+      "pickup_queue": 0
+    },
+    {
+      "time_min": 50.4933,
+      "locker_id": "A",
+      "occupied": 14,
+      "delivery_queue": 0,
+      "pickup_queue": 0
+    },
+    {
+      "time_min": 50.548,
+      "locker_id": "A",
+      "occupied": 15,
+      "delivery_queue": 0,
+      "pickup_queue": 0
+    },
+    {
+      "time_min": 50.767,
+      "locker_id": "A",
+      "occupied": 16,
+      "delivery_queue": 0,
+      "pickup_queue": 0
+    },
+    {
+      "time_min": 50.9357,
+      "locker_id": "A",
+      "occupied": 16,
+      "delivery_queue": 0,
+      "pickup_queue": 0
+    },
+    {
+      "time_min": 51.6357,
+      "locker_id": "A",
+      "occupied": 15,
+      "delivery_queue": 0,
+      "pickup_queue": 0
+    },
+    {
+      "time_min": 51.7792,
+      "locker_id": "A",
+      "occupied": 16,
+      "delivery_queue": 0,
+      "pickup_queue": 0
+    },
+    {
+      "time_min": 52.1929,
+      "locker_id": "A",
+      "occupied": 16,
+      "delivery_queue": 1,
+      "pickup_queue": 0
+    },
+    {
+      "time_min": 52.5132,
+      "locker_id": "A",
+      "occupied": 16,
+      "delivery_queue": 1,
+      "pickup_queue": 0
+    },
+    {
+      "time_min": 52.5431,
+      "locker_id": "A",
+      "occupied": 16,
+      "delivery_queue": 1,
+      "pickup_queue": 0
+    },
+    {
+      "time_min": 52.8296,
+      "locker_id": "A",
+      "occupied": 16,
+      "delivery_queue": 2,
+      "pickup_queue": 0
+    },
+    {
+      "time_min": 52.8431,
+      "locker_id": "A",
+      "occupied": 15,
+      "delivery_queue": 2,
+      "pickup_queue": 0
+    },
+    {
+      "time_min": 52.8431,
+      "locker_id": "A",
+      "occupied": 16,
+      "delivery_queue": 1,
+      "pickup_queue": 0
+    },
+    {
+      "time_min": 53.0132,
+      "locker_id": "A",
+      "occupied": 15,
+      "delivery_queue": 1,
+      "pickup_queue": 0
+    },
+    {
+      "time_min": 53.0132,
+      "locker_id": "A",
+      "occupied": 16,
+      "delivery_queue": 0,
+      "pickup_queue": 0
+    },
+    {
+      "time_min": 53.117,
+      "locker_id": "A",
+      "occupied": 16,
+      "delivery_queue": 1,
+      "pickup_queue": 0
+    },
+    {
+      "time_min": 53.2412,
+      "locker_id": "A",
+      "occupied": 16,
+      "delivery_queue": 2,
+      "pickup_queue": 0
+    },
+    {
+      "time_min": 53.577,
+      "locker_id": "A",
+      "occupied": 16,
+      "delivery_queue": 2,
+      "pickup_queue": 0
+    },
+    {
+      "time_min": 53.6198,
+      "locker_id": "A",
+      "occupied": 16,
+      "delivery_queue": 2,
+      "pickup_queue": 0
+    },
+    {
+      "time_min": 53.876999999999995,
+      "locker_id": "A",
+      "occupied": 15,
+      "delivery_queue": 2,
+      "pickup_queue": 0
+    },
+    {
+      "time_min": 53.876999999999995,
+      "locker_id": "A",
+      "occupied": 16,
+      "delivery_queue": 1,
+      "pickup_queue": 0
+    },
+    {
+      "time_min": 54.1198,
+      "locker_id": "A",
+      "occupied": 15,
+      "delivery_queue": 1,
+      "pickup_queue": 0
+    },
+    {
+      "time_min": 54.1198,
+      "locker_id": "A",
+      "occupied": 16,
+      "delivery_queue": 0,
+      "pickup_queue": 0
+    },
+    {
+      "time_min": 54.4855,
+      "locker_id": "A",
+      "occupied": 16,
+      "delivery_queue": 1,
+      "pickup_queue": 0
+    },
+    {
+      "time_min": 54.767,
+      "locker_id": "A",
+      "occupied": 16,
+      "delivery_queue": 1,
+      "pickup_queue": 0
+    },
+    {
+      "time_min": 55.067,
+      "locker_id": "A",
+      "occupied": 15,
+      "delivery_queue": 1,
+      "pickup_queue": 0
+    },
+    {
+      "time_min": 55.067,
+      "locker_id": "A",
+      "occupied": 16,
+      "delivery_queue": 0,
+      "pickup_queue": 0
+    },
+    {
+      "time_min": 55.5139,
+      "locker_id": "A",
+      "occupied": 16,
+      "delivery_queue": 1,
+      "pickup_queue": 0
+    },
+    {
+      "time_min": 55.8676,
+      "locker_id": "A",
+      "occupied": 16,
+      "delivery_queue": 2,
+      "pickup_queue": 0
+    },
+    {
+      "time_min": 55.880300000000005,
+      "locker_id": "A",
+      "occupied": 16,
+      "delivery_queue": 2,
+      "pickup_queue": 0
+    },
+    {
+      "time_min": 56.0106,
+      "locker_id": "A",
+      "occupied": 16,
+      "delivery_queue": 3,
+      "pickup_queue": 0
+    },
+    {
+      "time_min": 56.3431,
+      "locker_id": "A",
+      "occupied": 16,
+      "delivery_queue": 3,
+      "pickup_queue": 0
+    },
+    {
+      "time_min": 56.58030000000001,
+      "locker_id": "A",
+      "occupied": 15,
+      "delivery_queue": 3,
+      "pickup_queue": 0
+    },
+    {
+      "time_min": 56.58030000000001,
+      "locker_id": "A",
+      "occupied": 16,
+      "delivery_queue": 2,
+      "pickup_queue": 0
+    },
+    {
+      "time_min": 56.676700000000004,
+      "locker_id": "A",
+      "occupied": 16,
+      "delivery_queue": 2,
+      "pickup_queue": 0
+    },
+    {
+      "time_min": 56.6933,
+      "locker_id": "A",
+      "occupied": 16,
+      "delivery_queue": 2,
+      "pickup_queue": 1
+    },
+    {
+      "time_min": 56.737,
+      "locker_id": "A",
+      "occupied": 16,
+      "delivery_queue": 3,
+      "pickup_queue": 1
+    },
+    {
+      "time_min": 56.8431,
+      "locker_id": "A",
+      "occupied": 15,
+      "delivery_queue": 3,
+      "pickup_queue": 1
+    },
+    {
+      "time_min": 56.8431,
+      "locker_id": "A",
+      "occupied": 15,
+      "delivery_queue": 3,
+      "pickup_queue": 0
+    },
+    {
+      "time_min": 56.8431,
+      "locker_id": "A",
+      "occupied": 16,
+      "delivery_queue": 2,
+      "pickup_queue": 0
+    },
+    {
+      "time_min": 56.9767,
+      "locker_id": "A",
+      "occupied": 15,
+      "delivery_queue": 2,
+      "pickup_queue": 0
+    },
+    {
+      "time_min": 56.9767,
+      "locker_id": "A",
+      "occupied": 16,
+      "delivery_queue": 1,
+      "pickup_queue": 0
+    },
+    {
+      "time_min": 57.1431,
+      "locker_id": "A",
+      "occupied": 15,
+      "delivery_queue": 1,
+      "pickup_queue": 0
+    },
+    {
+      "time_min": 57.1431,
+      "locker_id": "A",
+      "occupied": 16,
+      "delivery_queue": 0,
+      "pickup_queue": 0
+    },
+    {
+      "time_min": 57.5542,
+      "locker_id": "A",
+      "occupied": 16,
+      "delivery_queue": 0,
+      "pickup_queue": 0
+    },
+    {
+      "time_min": 57.6189,
+      "locker_id": "A",
+      "occupied": 16,
+      "delivery_queue": 1,
+      "pickup_queue": 0
+    },
+    {
+      "time_min": 57.8896,
+      "locker_id": "A",
+      "occupied": 16,
+      "delivery_queue": 2,
+      "pickup_queue": 0
+    },
+    {
+      "time_min": 57.9116,
+      "locker_id": "A",
+      "occupied": 16,
+      "delivery_queue": 2,
+      "pickup_queue": 0
+    },
+    {
+      "time_min": 58.0542,
+      "locker_id": "A",
+      "occupied": 15,
+      "delivery_queue": 2,
+      "pickup_queue": 0
+    },
+    {
+      "time_min": 58.0542,
+      "locker_id": "A",
+      "occupied": 16,
+      "delivery_queue": 1,
+      "pickup_queue": 0
+    },
+    {
+      "time_min": 58.0633,
+      "locker_id": "A",
+      "occupied": 16,
+      "delivery_queue": 2,
+      "pickup_queue": 0
+    },
+    {
+      "time_min": 58.1052,
+      "locker_id": "A",
+      "occupied": 16,
+      "delivery_queue": 3,
+      "pickup_queue": 0
+    },
+    {
+      "time_min": 58.2792,
+      "locker_id": "A",
+      "occupied": 16,
+      "delivery_queue": 3,
+      "pickup_queue": 0
+    },
+    {
+      "time_min": 58.6116,
+      "locker_id": "A",
+      "occupied": 15,
+      "delivery_queue": 3,
+      "pickup_queue": 0
+    },
+    {
+      "time_min": 58.6116,
+      "locker_id": "A",
+      "occupied": 16,
+      "delivery_queue": 2,
+      "pickup_queue": 0
+    },
+    {
+      "time_min": 58.6198,
+      "locker_id": "A",
+      "occupied": 16,
+      "delivery_queue": 2,
+      "pickup_queue": 0
+    },
+    {
+      "time_min": 58.979200000000006,
+      "locker_id": "A",
+      "occupied": 15,
+      "delivery_queue": 2,
+      "pickup_queue": 0
+    },
+    {
+      "time_min": 58.979200000000006,
+      "locker_id": "A",
+      "occupied": 16,
+      "delivery_queue": 1,
+      "pickup_queue": 0
+    },
+    {
+      "time_min": 59.0502,
+      "locker_id": "A",
+      "occupied": 16,
+      "delivery_queue": 2,
+      "pickup_queue": 0
+    },
+    {
+      "time_min": 59.3198,
+      "locker_id": "A",
+      "occupied": 15,
+      "delivery_queue": 2,
+      "pickup_queue": 0
+    },
+    {
+      "time_min": 59.3198,
+      "locker_id": "A",
+      "occupied": 16,
+      "delivery_queue": 1,
+      "pickup_queue": 0
+    },
+    {
+      "time_min": 59.567,
+      "locker_id": "A",
+      "occupied": 16,
+      "delivery_queue": 1,
+      "pickup_queue": 0
+    },
+    {
+      "time_min": 59.8662,
+      "locker_id": "A",
+      "occupied": 16,
+      "delivery_queue": 2,
+      "pickup_queue": 0
+    },
+    {
+      "time_min": 60.0931,
+      "locker_id": "A",
+      "occupied": 16,
+      "delivery_queue": 3,
+      "pickup_queue": 0
+    },
+    {
+      "time_min": 60.267,
+      "locker_id": "A",
+      "occupied": 15,
+      "delivery_queue": 3,
+      "pickup_queue": 0
+    },
+    {
+      "time_min": 60.267,
+      "locker_id": "A",
+      "occupied": 16,
+      "delivery_queue": 2,
+      "pickup_queue": 0
+    },
+    {
+      "time_min": 61.0431,
+      "locker_id": "A",
+      "occupied": 16,
+      "delivery_queue": 2,
+      "pickup_queue": 0
+    },
+    {
+      "time_min": 61.048,
+      "locker_id": "A",
+      "occupied": 16,
+      "delivery_queue": 2,
+      "pickup_queue": 0
+    },
+    {
+      "time_min": 61.348,
+      "locker_id": "A",
+      "occupied": 15,
+      "delivery_queue": 2,
+      "pickup_queue": 0
+    },
+    {
+      "time_min": 61.348,
+      "locker_id": "A",
+      "occupied": 16,
+      "delivery_queue": 1,
+      "pickup_queue": 0
+    },
+    {
+      "time_min": 61.5431,
+      "locker_id": "A",
+      "occupied": 15,
+      "delivery_queue": 1,
+      "pickup_queue": 0
+    },
+    {
+      "time_min": 61.5431,
+      "locker_id": "A",
+      "occupied": 16,
+      "delivery_queue": 0,
+      "pickup_queue": 0
+    },
+    {
+      "time_min": 61.7,
+      "locker_id": "A",
+      "occupied": 16,
+      "delivery_queue": 1,
+      "pickup_queue": 0
+    },
+    {
+      "time_min": 61.793,
+      "locker_id": "A",
+      "occupied": 16,
+      "delivery_queue": 1,
+      "pickup_queue": 0
+    },
+    {
+      "time_min": 62.3489,
+      "locker_id": "A",
+      "occupied": 16,
+      "delivery_queue": 1,
+      "pickup_queue": 0
+    },
+    {
+      "time_min": 62.493,
+      "locker_id": "A",
+      "occupied": 15,
+      "delivery_queue": 1,
+      "pickup_queue": 0
+    },
+    {
+      "time_min": 62.493,
+      "locker_id": "A",
+      "occupied": 16,
+      "delivery_queue": 0,
+      "pickup_queue": 0
+    },
+    {
+      "time_min": 62.8489,
+      "locker_id": "A",
+      "occupied": 15,
+      "delivery_queue": 0,
+      "pickup_queue": 0
+    },
+    {
+      "time_min": 63.1116,
+      "locker_id": "A",
+      "occupied": 15,
+      "delivery_queue": 0,
+      "pickup_queue": 0
+    },
+    {
+      "time_min": 63.176700000000004,
+      "locker_id": "A",
+      "occupied": 15,
+      "delivery_queue": 0,
+      "pickup_queue": 0
+    },
+    {
+      "time_min": 63.2132,
+      "locker_id": "A",
+      "occupied": 15,
+      "delivery_queue": 0,
+      "pickup_queue": 1
+    },
+    {
+      "time_min": 63.676700000000004,
+      "locker_id": "A",
+      "occupied": 14,
+      "delivery_queue": 0,
+      "pickup_queue": 1
+    },
+    {
+      "time_min": 63.676700000000004,
+      "locker_id": "A",
+      "occupied": 14,
+      "delivery_queue": 0,
+      "pickup_queue": 0
+    },
+    {
+      "time_min": 63.811600000000006,
+      "locker_id": "A",
+      "occupied": 13,
+      "delivery_queue": 0,
+      "pickup_queue": 0
+    },
+    {
+      "time_min": 63.8354,
+      "locker_id": "A",
+      "occupied": 14,
+      "delivery_queue": 0,
+      "pickup_queue": 0
+    },
+    {
+      "time_min": 64.3767,
+      "locker_id": "A",
+      "occupied": 13,
+      "delivery_queue": 0,
+      "pickup_queue": 0
+    },
+    {
+      "time_min": 64.5588,
+      "locker_id": "A",
+      "occupied": 14,
+      "delivery_queue": 0,
+      "pickup_queue": 0
+    },
+    {
+      "time_min": 65.0431,
+      "locker_id": "A",
+      "occupied": 14,
+      "delivery_queue": 0,
+      "pickup_queue": 0
+    },
+    {
+      "time_min": 65.08030000000001,
+      "locker_id": "A",
+      "occupied": 14,
+      "delivery_queue": 0,
+      "pickup_queue": 0
+    },
+    {
+      "time_min": 65.2596,
+      "locker_id": "A",
+      "occupied": 14,
+      "delivery_queue": 0,
+      "pickup_queue": 1
+    },
+    {
+      "time_min": 65.34309999999999,
+      "locker_id": "A",
+      "occupied": 13,
+      "delivery_queue": 0,
+      "pickup_queue": 1
+    },
+    {
+      "time_min": 65.34309999999999,
+      "locker_id": "A",
+      "occupied": 13,
+      "delivery_queue": 0,
+      "pickup_queue": 0
+    },
+    {
+      "time_min": 65.78030000000001,
+      "locker_id": "A",
+      "occupied": 12,
+      "delivery_queue": 0,
+      "pickup_queue": 0
+    },
+    {
+      "time_min": 65.8198,
+      "locker_id": "A",
+      "occupied": 12,
+      "delivery_queue": 0,
+      "pickup_queue": 0
+    },
+    {
+      "time_min": 65.848,
+      "locker_id": "A",
+      "occupied": 12,
+      "delivery_queue": 0,
+      "pickup_queue": 1
+    },
+    {
+      "time_min": 66.0431,
+      "locker_id": "A",
+      "occupied": 11,
+      "delivery_queue": 0,
+      "pickup_queue": 1
+    },
+    {
+      "time_min": 66.0431,
+      "locker_id": "A",
+      "occupied": 11,
+      "delivery_queue": 0,
+      "pickup_queue": 0
+    },
+    {
+      "time_min": 66.049,
+      "locker_id": "A",
+      "occupied": 12,
+      "delivery_queue": 0,
+      "pickup_queue": 0
+    },
+    {
+      "time_min": 66.077,
+      "locker_id": "A",
+      "occupied": 12,
+      "delivery_queue": 0,
+      "pickup_queue": 1
+    },
+    {
+      "time_min": 66.1198,
+      "locker_id": "A",
+      "occupied": 11,
+      "delivery_queue": 0,
+      "pickup_queue": 1
+    },
+    {
+      "time_min": 66.1198,
+      "locker_id": "A",
+      "occupied": 11,
+      "delivery_queue": 0,
+      "pickup_queue": 0
+    },
+    {
+      "time_min": 66.467,
+      "locker_id": "A",
+      "occupied": 11,
+      "delivery_queue": 0,
+      "pickup_queue": 1
+    },
+    {
+      "time_min": 66.6198,
+      "locker_id": "A",
+      "occupied": 10,
+      "delivery_queue": 0,
+      "pickup_queue": 1
+    },
+    {
+      "time_min": 66.6198,
+      "locker_id": "A",
+      "occupied": 10,
+      "delivery_queue": 0,
+      "pickup_queue": 0
+    },
+    {
+      "time_min": 66.7431,
+      "locker_id": "A",
+      "occupied": 9,
+      "delivery_queue": 0,
+      "pickup_queue": 0
+    },
+    {
+      "time_min": 66.8536,
+      "locker_id": "A",
+      "occupied": 10,
+      "delivery_queue": 0,
+      "pickup_queue": 0
+    },
+    {
+      "time_min": 67.3198,
+      "locker_id": "A",
+      "occupied": 9,
+      "delivery_queue": 0,
+      "pickup_queue": 0
+    },
+    {
+      "time_min": 67.83539999999999,
+      "locker_id": "A",
+      "occupied": 9,
+      "delivery_queue": 0,
+      "pickup_queue": 0
+    },
+    {
+      "time_min": 68.0237,
+      "locker_id": "A",
+      "occupied": 10,
+      "delivery_queue": 0,
+      "pickup_queue": 0
+    },
+    {
+      "time_min": 68.13539999999999,
+      "locker_id": "A",
+      "occupied": 9,
+      "delivery_queue": 0,
+      "pickup_queue": 0
+    },
+    {
+      "time_min": 69.0588,
+      "locker_id": "A",
+      "occupied": 9,
+      "delivery_queue": 0,
+      "pickup_queue": 0
+    },
+    {
+      "time_min": 69.0647,
+      "locker_id": "A",
+      "occupied": 10,
+      "delivery_queue": 0,
+      "pickup_queue": 0
+    },
+    {
+      "time_min": 69.3588,
+      "locker_id": "A",
+      "occupied": 9,
+      "delivery_queue": 0,
+      "pickup_queue": 0
+    },
+    {
+      "time_min": 69.4557,
+      "locker_id": "A",
+      "occupied": 10,
+      "delivery_queue": 0,
+      "pickup_queue": 0
+    },
+    {
+      "time_min": 70.2542,
+      "locker_id": "A",
+      "occupied": 10,
+      "delivery_queue": 0,
+      "pickup_queue": 0
+    },
+    {
+      "time_min": 70.493,
+      "locker_id": "A",
+      "occupied": 10,
+      "delivery_queue": 0,
+      "pickup_queue": 0
+    },
+    {
+      "time_min": 70.5542,
+      "locker_id": "A",
+      "occupied": 9,
+      "delivery_queue": 0,
+      "pickup_queue": 0
+    },
+    {
+      "time_min": 70.993,
+      "locker_id": "A",
+      "occupied": 8,
+      "delivery_queue": 0,
+      "pickup_queue": 0
+    },
+    {
+      "time_min": 71.4805,
+      "locker_id": "A",
+      "occupied": 9,
+      "delivery_queue": 0,
+      "pickup_queue": 0
+    },
+    {
+      "time_min": 71.7431,
+      "locker_id": "A",
+      "occupied": 9,
+      "delivery_queue": 0,
+      "pickup_queue": 0
+    },
+    {
+      "time_min": 72.0431,
+      "locker_id": "A",
+      "occupied": 8,
+      "delivery_queue": 0,
+      "pickup_queue": 0
+    },
+    {
+      "time_min": 72.1431,
+      "locker_id": "A",
+      "occupied": 8,
+      "delivery_queue": 0,
+      "pickup_queue": 0
+    },
+    {
+      "time_min": 72.3466,
+      "locker_id": "A",
+      "occupied": 9,
+      "delivery_queue": 0,
+      "pickup_queue": 0
+    },
+    {
+      "time_min": 72.5059,
+      "locker_id": "A",
+      "occupied": 10,
+      "delivery_queue": 0,
+      "pickup_queue": 0
+    },
+    {
+      "time_min": 72.8431,
+      "locker_id": "A",
+      "occupied": 9,
+      "delivery_queue": 0,
+      "pickup_queue": 0
+    },
+    {
+      "time_min": 73.3536,
+      "locker_id": "A",
+      "occupied": 9,
+      "delivery_queue": 0,
+      "pickup_queue": 0
+    },
+    {
+      "time_min": 73.6536,
+      "locker_id": "A",
+      "occupied": 8,
+      "delivery_queue": 0,
+      "pickup_queue": 0
+    },
+    {
+      "time_min": 73.7957,
+      "locker_id": "A",
+      "occupied": 9,
+      "delivery_queue": 0,
+      "pickup_queue": 0
+    },
+    {
+      "time_min": 74.0557,
+      "locker_id": "A",
+      "occupied": 10,
+      "delivery_queue": 0,
+      "pickup_queue": 0
+    },
+    {
+      "time_min": 74.17920000000001,
+      "locker_id": "A",
+      "occupied": 10,
+      "delivery_queue": 0,
+      "pickup_queue": 0
+    },
+    {
+      "time_min": 74.87920000000001,
+      "locker_id": "A",
+      "occupied": 9,
+      "delivery_queue": 0,
+      "pickup_queue": 0
+    },
+    {
+      "time_min": 75.1039,
+      "locker_id": "A",
+      "occupied": 10,
+      "delivery_queue": 0,
+      "pickup_queue": 0
+    },
+    {
+      "time_min": 75.8546,
+      "locker_id": "A",
+      "occupied": 11,
+      "delivery_queue": 0,
+      "pickup_queue": 0
+    },
+    {
+      "time_min": 76.549,
+      "locker_id": "A",
+      "occupied": 11,
+      "delivery_queue": 0,
+      "pickup_queue": 0
+    },
+    {
+      "time_min": 76.849,
+      "locker_id": "A",
+      "occupied": 10,
+      "delivery_queue": 0,
+      "pickup_queue": 0
+    },
+    {
+      "time_min": 76.9914,
+      "locker_id": "A",
+      "occupied": 11,
+      "delivery_queue": 0,
+      "pickup_queue": 0
+    },
+    {
+      "time_min": 77.0322,
+      "locker_id": "A",
+      "occupied": 12,
+      "delivery_queue": 0,
+      "pickup_queue": 0
+    },
+    {
+      "time_min": 77.0647,
+      "locker_id": "A",
+      "occupied": 12,
+      "delivery_queue": 0,
+      "pickup_queue": 0
+    },
+    {
+      "time_min": 77.7276,
+      "locker_id": "A",
+      "occupied": 13,
+      "delivery_queue": 0,
+      "pickup_queue": 0
+    },
+    {
+      "time_min": 77.7647,
+      "locker_id": "A",
+      "occupied": 12,
+      "delivery_queue": 0,
+      "pickup_queue": 0
+    },
+    {
+      "time_min": 78.0154,
+      "locker_id": "A",
+      "occupied": 13,
+      "delivery_queue": 0,
+      "pickup_queue": 0
+    },
+    {
+      "time_min": 78.2557,
+      "locker_id": "A",
+      "occupied": 13,
+      "delivery_queue": 0,
+      "pickup_queue": 0
+    },
+    {
+      "time_min": 78.3549,
+      "locker_id": "A",
+      "occupied": 14,
+      "delivery_queue": 0,
+      "pickup_queue": 0
+    },
+    {
+      "time_min": 78.5237,
+      "locker_id": "A",
+      "occupied": 14,
+      "delivery_queue": 0,
+      "pickup_queue": 0
+    },
+    {
+      "time_min": 78.5557,
+      "locker_id": "A",
+      "occupied": 13,
+      "delivery_queue": 0,
+      "pickup_queue": 0
+    },
+    {
+      "time_min": 78.9691,
+      "locker_id": "A",
+      "occupied": 14,
+      "delivery_queue": 0,
+      "pickup_queue": 0
+    },
+    {
+      "time_min": 79.1039,
+      "locker_id": "A",
+      "occupied": 14,
+      "delivery_queue": 0,
+      "pickup_queue": 0
+    },
+    {
+      "time_min": 79.1651,
+      "locker_id": "A",
+      "occupied": 15,
+      "delivery_queue": 0,
+      "pickup_queue": 0
+    },
+    {
+      "time_min": 79.22370000000001,
+      "locker_id": "A",
+      "occupied": 14,
+      "delivery_queue": 0,
+      "pickup_queue": 0
+    },
+    {
+      "time_min": 79.6039,
+      "locker_id": "A",
+      "occupied": 13,
+      "delivery_queue": 0,
+      "pickup_queue": 0
+    },
+    {
+      "time_min": 79.7327,
+      "locker_id": "A",
+      "occupied": 14,
+      "delivery_queue": 0,
+      "pickup_queue": 0
+    },
+    {
+      "time_min": 79.9557,
+      "locker_id": "A",
+      "occupied": 14,
+      "delivery_queue": 0,
+      "pickup_queue": 0
+    },
+    {
+      "time_min": 80.25569999999999,
+      "locker_id": "A",
+      "occupied": 13,
+      "delivery_queue": 0,
+      "pickup_queue": 0
+    },
+    {
+      "time_min": 81.0322,
+      "locker_id": "A",
+      "occupied": 13,
+      "delivery_queue": 0,
+      "pickup_queue": 0
+    },
+    {
+      "time_min": 81.7322,
+      "locker_id": "A",
+      "occupied": 12,
+      "delivery_queue": 0,
+      "pickup_queue": 0
+    },
+    {
+      "time_min": 82.0154,
+      "locker_id": "A",
+      "occupied": 12,
+      "delivery_queue": 0,
+      "pickup_queue": 0
+    },
+    {
+      "time_min": 82.2276,
+      "locker_id": "A",
+      "occupied": 12,
+      "delivery_queue": 0,
+      "pickup_queue": 0
+    },
+    {
+      "time_min": 82.5154,
+      "locker_id": "A",
+      "occupied": 11,
+      "delivery_queue": 0,
+      "pickup_queue": 0
+    },
+    {
+      "time_min": 82.52759999999999,
+      "locker_id": "A",
+      "occupied": 10,
+      "delivery_queue": 0,
+      "pickup_queue": 0
+    },
+    {
+      "time_min": 82.8454,
+      "locker_id": "A",
+      "occupied": 11,
+      "delivery_queue": 0,
+      "pickup_queue": 0
+    },
+    {
+      "time_min": 83.9957,
+      "locker_id": "A",
+      "occupied": 11,
+      "delivery_queue": 0,
+      "pickup_queue": 0
+    },
+    {
+      "time_min": 84.3616,
+      "locker_id": "A",
+      "occupied": 12,
+      "delivery_queue": 0,
+      "pickup_queue": 0
+    },
+    {
+      "time_min": 84.6957,
+      "locker_id": "A",
+      "occupied": 11,
+      "delivery_queue": 0,
+      "pickup_queue": 0
+    },
+    {
+      "time_min": 86.9805,
+      "locker_id": "A",
+      "occupied": 11,
+      "delivery_queue": 0,
+      "pickup_queue": 0
+    },
+    {
+      "time_min": 87.3466,
+      "locker_id": "A",
+      "occupied": 11,
+      "delivery_queue": 0,
+      "pickup_queue": 0
+    },
+    {
+      "time_min": 87.3931,
+      "locker_id": "A",
+      "occupied": 12,
+      "delivery_queue": 0,
+      "pickup_queue": 0
+    },
+    {
+      "time_min": 87.68050000000001,
+      "locker_id": "A",
+      "occupied": 11,
+      "delivery_queue": 0,
+      "pickup_queue": 0
+    },
+    {
+      "time_min": 87.7059,
+      "locker_id": "A",
+      "occupied": 11,
+      "delivery_queue": 0,
+      "pickup_queue": 0
+    },
+    {
+      "time_min": 87.8466,
+      "locker_id": "A",
+      "occupied": 10,
+      "delivery_queue": 0,
+      "pickup_queue": 0
+    },
+    {
+      "time_min": 87.8546,
+      "locker_id": "A",
+      "occupied": 10,
+      "delivery_queue": 0,
+      "pickup_queue": 0
+    },
+    {
+      "time_min": 88.3359,
+      "locker_id": "A",
+      "occupied": 11,
+      "delivery_queue": 0,
+      "pickup_queue": 0
+    },
+    {
+      "time_min": 88.3369,
+      "locker_id": "A",
+      "occupied": 12,
+      "delivery_queue": 0,
+      "pickup_queue": 0
+    },
+    {
+      "time_min": 88.4059,
+      "locker_id": "A",
+      "occupied": 11,
+      "delivery_queue": 0,
+      "pickup_queue": 0
+    },
+    {
+      "time_min": 88.55460000000001,
+      "locker_id": "A",
+      "occupied": 10,
+      "delivery_queue": 0,
+      "pickup_queue": 0
+    },
+    {
+      "time_min": 88.9914,
+      "locker_id": "A",
+      "occupied": 10,
+      "delivery_queue": 0,
+      "pickup_queue": 0
+    },
+    {
+      "time_min": 89.0454,
+      "locker_id": "A",
+      "occupied": 10,
+      "delivery_queue": 0,
+      "pickup_queue": 0
+    },
+    {
+      "time_min": 89.2914,
+      "locker_id": "A",
+      "occupied": 9,
+      "delivery_queue": 0,
+      "pickup_queue": 0
+    },
+    {
+      "time_min": 89.5454,
+      "locker_id": "A",
+      "occupied": 8,
+      "delivery_queue": 0,
+      "pickup_queue": 0
+    },
+    {
+      "time_min": 90.3549,
+      "locker_id": "A",
+      "occupied": 8,
+      "delivery_queue": 0,
+      "pickup_queue": 0
+    },
+    {
+      "time_min": 90.5616,
+      "locker_id": "A",
+      "occupied": 8,
+      "delivery_queue": 0,
+      "pickup_queue": 0
+    },
+    {
+      "time_min": 90.6549,
+      "locker_id": "A",
+      "occupied": 7,
+      "delivery_queue": 0,
+      "pickup_queue": 0
+    },
+    {
+      "time_min": 90.8616,
+      "locker_id": "A",
+      "occupied": 6,
+      "delivery_queue": 0,
+      "pickup_queue": 0
+    },
+    {
+      "time_min": 91.0311,
+      "locker_id": "A",
+      "occupied": 7,
+      "delivery_queue": 0,
+      "pickup_queue": 0
+    },
+    {
+      "time_min": 91.1651,
+      "locker_id": "A",
+      "occupied": 7,
+      "delivery_queue": 0,
+      "pickup_queue": 0
+    },
+    {
+      "time_min": 91.46509999999999,
+      "locker_id": "A",
+      "occupied": 6,
+      "delivery_queue": 0,
+      "pickup_queue": 0
+    },
+    {
+      "time_min": 92.2327,
+      "locker_id": "A",
+      "occupied": 6,
+      "delivery_queue": 0,
+      "pickup_queue": 0
+    },
+    {
+      "time_min": 92.9327,
+      "locker_id": "A",
+      "occupied": 5,
+      "delivery_queue": 0,
+      "pickup_queue": 0
+    },
+    {
+      "time_min": 93.277,
+      "locker_id": "A",
+      "occupied": 6,
+      "delivery_queue": 0,
+      "pickup_queue": 0
+    },
+    {
+      "time_min": 93.9313,
+      "locker_id": "A",
+      "occupied": 7,
+      "delivery_queue": 0,
+      "pickup_queue": 0
+    },
+    {
+      "time_min": 94.1691,
+      "locker_id": "A",
+      "occupied": 7,
+      "delivery_queue": 0,
+      "pickup_queue": 0
+    },
+    {
+      "time_min": 94.6691,
+      "locker_id": "A",
+      "occupied": 6,
+      "delivery_queue": 0,
+      "pickup_queue": 0
+    },
+    {
+      "time_min": 95.4592,
+      "locker_id": "A",
+      "occupied": 7,
+      "delivery_queue": 0,
+      "pickup_queue": 0
+    },
+    {
+      "time_min": 97.277,
+      "locker_id": "A",
+      "occupied": 7,
+      "delivery_queue": 0,
+      "pickup_queue": 0
+    },
+    {
+      "time_min": 97.777,
+      "locker_id": "A",
+      "occupied": 6,
+      "delivery_queue": 0,
+      "pickup_queue": 0
+    },
+    {
+      "time_min": 98.5359,
+      "locker_id": "A",
+      "occupied": 6,
+      "delivery_queue": 0,
+      "pickup_queue": 0
+    },
+    {
+      "time_min": 99.0359,
+      "locker_id": "A",
+      "occupied": 5,
+      "delivery_queue": 0,
+      "pickup_queue": 0
+    },
+    {
+      "time_min": 100.1423,
+      "locker_id": "A",
+      "occupied": 6,
+      "delivery_queue": 0,
+      "pickup_queue": 0
+    },
+    {
+      "time_min": 101.4592,
+      "locker_id": "A",
+      "occupied": 6,
+      "delivery_queue": 0,
+      "pickup_queue": 0
+    },
+    {
+      "time_min": 101.75919999999999,
+      "locker_id": "A",
+      "occupied": 5,
+      "delivery_queue": 0,
+      "pickup_queue": 0
+    },
+    {
+      "time_min": 102.3931,
+      "locker_id": "A",
+      "occupied": 5,
+      "delivery_queue": 0,
+      "pickup_queue": 0
+    },
+    {
+      "time_min": 102.4313,
+      "locker_id": "A",
+      "occupied": 5,
+      "delivery_queue": 0,
+      "pickup_queue": 0
+    },
+    {
+      "time_min": 102.73129999999999,
+      "locker_id": "A",
+      "occupied": 4,
+      "delivery_queue": 0,
+      "pickup_queue": 0
+    },
+    {
+      "time_min": 102.8931,
+      "locker_id": "A",
+      "occupied": 3,
+      "delivery_queue": 0,
+      "pickup_queue": 0
+    },
+    {
+      "time_min": 103.5369,
+      "locker_id": "A",
+      "occupied": 3,
+      "delivery_queue": 0,
+      "pickup_queue": 0
+    },
+    {
+      "time_min": 103.8369,
+      "locker_id": "A",
+      "occupied": 2,
+      "delivery_queue": 0,
+      "pickup_queue": 0
+    },
+    {
+      "time_min": 105.4857,
+      "locker_id": "A",
+      "occupied": 3,
+      "delivery_queue": 0,
+      "pickup_queue": 0
+    },
+    {
+      "time_min": 106.5311,
+      "locker_id": "A",
+      "occupied": 3,
+      "delivery_queue": 0,
+      "pickup_queue": 0
+    },
+    {
+      "time_min": 107.2311,
+      "locker_id": "A",
+      "occupied": 2,
+      "delivery_queue": 0,
+      "pickup_queue": 0
+    },
+    {
+      "time_min": 107.7746,
+      "locker_id": "A",
+      "occupied": 3,
+      "delivery_queue": 0,
+      "pickup_queue": 0
+    },
+    {
+      "time_min": 110.6423,
+      "locker_id": "A",
+      "occupied": 3,
+      "delivery_queue": 0,
+      "pickup_queue": 0
+    },
+    {
+      "time_min": 110.9423,
+      "locker_id": "A",
+      "occupied": 2,
+      "delivery_queue": 0,
+      "pickup_queue": 0
+    },
+    {
+      "time_min": 111.6857,
+      "locker_id": "A",
+      "occupied": 2,
+      "delivery_queue": 0,
+      "pickup_queue": 0
+    },
+    {
+      "time_min": 112.1857,
+      "locker_id": "A",
+      "occupied": 1,
+      "delivery_queue": 0,
+      "pickup_queue": 0
+    },
+    {
+      "time_min": 113.97460000000001,
+      "locker_id": "A",
+      "occupied": 1,
+      "delivery_queue": 0,
+      "pickup_queue": 0
+    },
+    {
+      "time_min": 114.2746,
+      "locker_id": "A",
+      "occupied": 0,
+      "delivery_queue": 0,
+      "pickup_queue": 0
+    }
+  ]
+}

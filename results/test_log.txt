@@ -1,0 +1,21 @@
+test_capacity_comparison (test_model.ModelTests.test_capacity_comparison) ... ok
+test_drain_and_window_integral (test_model.ModelTests.test_drain_and_window_integral) ... ok
+test_duplicate_order_and_unknown_bank (test_model.ModelTests.test_duplicate_order_and_unknown_bank) ... ok
+test_empty_day (test_model.ModelTests.test_empty_day) ... ok
+test_evaluation (test_model.ModelTests.test_evaluation) ... ok
+test_full_cabinet_hand_calculation (test_model.ModelTests.test_full_cabinet_hand_calculation) ... ok
+test_invalid_inputs (test_model.ModelTests.test_invalid_inputs) ... ok
+test_invariants_and_reproducibility (test_model.ModelTests.test_invariants_and_reproducibility) ... ok
+test_multi_bank_isolation (test_model.ModelTests.test_multi_bank_isolation) ... ok
+test_parallel_terminals (test_model.ModelTests.test_parallel_terminals) ... ok
+test_prediction_empty_day (test_model.ModelTests.test_prediction_empty_day) ... ok
+test_replication_validation (test_model.ModelTests.test_replication_validation) ... ok
+test_scenario_no_silent_fallback (test_model.ModelTests.test_scenario_no_silent_fallback) ... ok
+test_separate_pickup_queue (test_model.ModelTests.test_separate_pickup_queue) ... ok
+test_t1_t3_identity (test_model.ModelTests.test_t1_t3_identity) ... ok
+test_unknown_upstream_remains_null (test_model.ModelTests.test_unknown_upstream_remains_null) ... ok
+
+----------------------------------------------------------------------
+Ran 16 tests in 0.018s
+
+OK
