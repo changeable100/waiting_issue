@@ -6,6 +6,8 @@
 
 项目仓库为 [changeable100/waiting_issue](https://github.com/changeable100/waiting_issue)。`main` 维护团队公共介绍与方案，`zpx/model-development` 保存本人的开发内容。公共文档见 [main的项目文档](https://github.com/changeable100/waiting_issue/tree/main/docs/project)，分支与后续提交说明见 `docs/04_repository.md`。
 
+本机后续开发和提交统一在 `D:\Waiting\waiting_issue` 进行，旧开发目录已删除，本地演示服务已迁移至本目录。
+
 ```powershell
 git clone --branch zpx/model-development https://github.com/changeable100/waiting_issue.git
 ```
@@ -20,8 +22,9 @@ git clone --branch zpx/model-development https://github.com/changeable100/waitin
 | 4 工程验证和实验 | 手算案例、边界和守恒测试、16 类合成场景及 3 组容量 | 已完成，见 reports/04_validation.md |
 | 5 本地网页演示 | 场景选择、容量调整、模型调用、曲线与统计、JSON导出 | 已完成，见 reports/05_local_web.md |
 | 6 GitHub协作 | main公共文档、个人开发分支、上传检查与协作说明 | 已完成，见 reports/06_github_collaboration.md |
-| 7 真实数据校准 | 接收团队数据、按日期划分训练集和验证集、校准与检验 | 待真实数据，未完成 |
-| 8 团队联调和论文实验 | 与正式后端、优化及论文成员联调，确认口径，生成正式图表 | 待团队模块，未完成 |
+| 7 开发目录统一 | 文件比对、依赖与服务迁移、旧目录清理 | 已完成，见 reports/07_workspace_migration.md |
+| 8 真实数据校准 | 接收团队数据、按日期划分训练集和验证集、校准与检验 | 待真实数据，未完成 |
+| 9 团队联调和论文实验 | 与正式后端、优化及论文成员联调，确认口径，生成正式图表 | 待团队模块，未完成 |
 
 ## 打开演示界面
 
@@ -65,6 +68,6 @@ python -m venv .venv
 
 ## 对接与阶段检查材料
 
-先阅读 [开发边界](docs/01_scope_and_plan.md) 与 [统一接口](docs/02_contract.md)。`docs/agents/` 中按成员分别准备了可以直接复制给 agent 的任务说明。`reports/` 中六份逐步报告对应六个已完成步骤，`reports/00_teacher_summary.md` 是阶段汇总。
+先阅读 [开发边界](docs/01_scope_and_plan.md) 与 [统一接口](docs/02_contract.md)。`docs/agents/` 中按成员分别准备了可以直接复制给 agent 的任务说明。`reports/` 中七份逐步报告对应七个已完成步骤，`reports/00_teacher_summary.md` 是阶段汇总。
 
 仿真资源语义参考 [SimPy 官方共享资源说明](https://simpy.readthedocs.io/en/stable/simpy_intro/shared_resources.html)；依赖锁定为 4.1.1。未引用申请书里的未核验市场数字作为实验事实。

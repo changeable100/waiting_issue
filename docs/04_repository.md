@@ -10,7 +10,7 @@ main只维护团队公共内容：项目介绍、目标计划、总体架构、�
 
 ## 本机工作目录
 
-本次Git工作副本是 `D:\Waiting\waiting_issue`，开发材料原目录 `D:\Waiting\campus-locker-zpx` 保留。两者是独立副本，不会自动同步。后续建议在Git工作副本的zpx/model-development分支直接开发并提交；若在原目录修改，应确认需要同步的文件后复制到工作副本，检查差异再提交，不能直接在原目录运行git push。
+后续开发和Git提交统一使用 `D:\Waiting\waiting_issue`，个人分支为zpx/model-development。旧目录已按用户要求删除，不再维护平行副本。本地SimPy依赖和演示服务已迁移到当前工作目录；`.deps` 仍被Git忽略，其他电脑克隆后需安装requirements.txt。
 
 ```powershell
 cd D:\Waiting\waiting_issue
