@@ -1,0 +1,1858 @@
+{
+  "schema_version": "1.0",
+  "source_kind": "synthetic",
+  "provenance": "工程测试合成数据 seed=20261118；情境系数不代表真实校园规律",
+  "scenario_id": "weekend_clear_dinner_exam",
+  "horizon_min": 120,
+  "lockers": [
+    {
+      "id": "A",
+      "capacity": 16,
+      "pickup_servers": 2
+    }
+  ],
+  "arrival_profiles": [
+    [
+      {
+        "id": "d0-0000",
+        "arrival_min": 4.5267,
+        "locker_id": "A",
+        "upstream_min": 35
+      },
+      {
+        "id": "d0-0001",
+        "arrival_min": 6.1504,
+        "locker_id": "A",
+        "upstream_min": 35
+      },
+      {
+        "id": "d0-0002",
+        "arrival_min": 10.4142,
+        "locker_id": "A",
+        "upstream_min": 20
+      },
+      {
+        "id": "d0-0003",
+        "arrival_min": 12.4149,
+        "locker_id": "A",
+        "upstream_min": 25
+      },
+      {
+        "id": "d0-0004",
+        "arrival_min": 15.779,
+        "locker_id": "A",
+        "upstream_min": 30
+      },
+      {
+        "id": "d0-0005",
+        "arrival_min": 15.9512,
+        "locker_id": "A",
+        "upstream_min": 25
+      },
+      {
+        "id": "d0-0006",
+        "arrival_min": 16.5104,
+        "locker_id": "A",
+        "upstream_min": 35
+      },
+      {
+        "id": "d0-0007",
+        "arrival_min": 17.5303,
+        "locker_id": "A",
+        "upstream_min": 30
+      },
+      {
+        "id": "d0-0008",
+        "arrival_min": 17.9105,
+        "locker_id": "A",
+        "upstream_min": 30
+      },
+      {
+        "id": "d0-0009",
+        "arrival_min": 18.467,
+        "locker_id": "A",
+        "upstream_min": 25
+      },
+      {
+        "id": "d0-0010",
+        "arrival_min": 18.5557,
+        "locker_id": "A",
+        "upstream_min": 35
+      },
+      {
+        "id": "d0-0011",
+        "arrival_min": 19.8606,
+        "locker_id": "A",
+        "upstream_min": 30
+      },
+      {
+        "id": "d0-0012",
+        "arrival_min": 23.6089,
+        "locker_id": "A",
+        "upstream_min": 30
+      },
+      {
+        "id": "d0-0013",
+        "arrival_min": 23.943,
+        "locker_id": "A",
+        "upstream_min": 20
+      },
+      {
+        "id": "d0-0014",
+        "arrival_min": 25.0496,
+        "locker_id": "A",
+        "upstream_min": 20
+      },
+      {
+        "id": "d0-0015",
+        "arrival_min": 25.3368,
+        "locker_id": "A",
+        "upstream_min": 35
+      },
+      {
+        "id": "d0-0016",
+        "arrival_min": 25.7725,
+        "locker_id": "A",
+        "upstream_min": 25
+      },
+      {
+        "id": "d0-0017",
+        "arrival_min": 29.3965,
+        "locker_id": "A",
+        "upstream_min": 25
+      },
+      {
+        "id": "d0-0018",
+        "arrival_min": 29.4672,
+        "locker_id": "A",
+        "upstream_min": 35
+      },
+      {
+        "id": "d0-0019",
+        "arrival_min": 29.4751,
+        "locker_id": "A",
+        "upstream_min": 25
+      },
+      {
+        "id": "d0-0020",
+        "arrival_min": 29.5377,
+        "locker_id": "A",
+        "upstream_min": 25
+      },
+      {
+        "id": "d0-0021",
+        "arrival_min": 30.309,
+        "locker_id": "A",
+        "upstream_min": 25
+      },
+      {
+        "id": "d0-0022",
+        "arrival_min": 31.4674,
+        "locker_id": "A",
+        "upstream_min": 20
+      },
+      {
+        "id": "d0-0023",
+        "arrival_min": 31.8757,
+        "locker_id": "A",
+        "upstream_min": 35
+      },
+      {
+        "id": "d0-0024",
+        "arrival_min": 32.8974,
+        "locker_id": "A",
+        "upstream_min": 35
+      },
+      {
+        "id": "d0-0025",
+        "arrival_min": 33.552,
+        "locker_id": "A",
+        "upstream_min": 35
+      },
+      {
+        "id": "d0-0026",
+        "arrival_min": 33.6969,
+        "locker_id": "A",
+        "upstream_min": 25
+      },
+      {
+        "id": "d0-0027",
+        "arrival_min": 34.3162,
+        "locker_id": "A",
+        "upstream_min": 35
+      },
+      {
+        "id": "d0-0028",
+        "arrival_min": 35.3476,
+        "locker_id": "A",
+        "upstream_min": 35
+      },
+      {
+        "id": "d0-0029",
+        "arrival_min": 37.2307,
+        "locker_id": "A",
+        "upstream_min": 30
+      },
+      {
+        "id": "d0-0030",
+        "arrival_min": 38.063,
+        "locker_id": "A",
+        "upstream_min": 25
+      },
+      {
+        "id": "d0-0031",
+        "arrival_min": 39.8457,
+        "locker_id": "A",
+        "upstream_min": 25
+      },
+      {
+        "id": "d0-0032",
+        "arrival_min": 39.9883,
+        "locker_id": "A",
+        "upstream_min": 30
+      },
+      {
+        "id": "d0-0033",
+        "arrival_min": 40.206,
+        "locker_id": "A",
+        "upstream_min": 25
+      },
+      {
+        "id": "d0-0034",
+        "arrival_min": 40.3201,
+        "locker_id": "A",
+        "upstream_min": 35
+      },
+      {
+        "id": "d0-0035",
+        "arrival_min": 40.6326,
+        "locker_id": "A",
+        "upstream_min": 30
+      },
+      {
+        "id": "d0-0036",
+        "arrival_min": 40.8265,
+        "locker_id": "A",
+        "upstream_min": 30
+      },
+      {
+        "id": "d0-0037",
+        "arrival_min": 42.1086,
+        "locker_id": "A",
+        "upstream_min": 20
+      },
+      {
+        "id": "d0-0038",
+        "arrival_min": 42.5652,
+        "locker_id": "A",
+        "upstream_min": 30
+      },
+      {
+        "id": "d0-0039",
+        "arrival_min": 44.994,
+        "locker_id": "A",
+        "upstream_min": 30
+      },
+      {
+        "id": "d0-0040",
+        "arrival_min": 45.3385,
+        "locker_id": "A",
+        "upstream_min": 25
+      },
+      {
+        "id": "d0-0041",
+        "arrival_min": 45.7496,
+        "locker_id": "A",
+        "upstream_min": 35
+      },
+      {
+        "id": "d0-0042",
+        "arrival_min": 45.7533,
+        "locker_id": "A",
+        "upstream_min": 20
+      },
+      {
+        "id": "d0-0043",
+        "arrival_min": 47.466,
+        "locker_id": "A",
+        "upstream_min": 35
+      },
+      {
+        "id": "d0-0044",
+        "arrival_min": 47.526,
+        "locker_id": "A",
+        "upstream_min": 25
+      },
+      {
+        "id": "d0-0045",
+        "arrival_min": 47.811,
+        "locker_id": "A",
+        "upstream_min": 20
+      },
+      {
+        "id": "d0-0046",
+        "arrival_min": 47.9123,
+        "locker_id": "A",
+        "upstream_min": 30
+      },
+      {
+        "id": "d0-0047",
+        "arrival_min": 48.869,
+        "locker_id": "A",
+        "upstream_min": 35
+      },
+      {
+        "id": "d0-0048",
+        "arrival_min": 49.0668,
+        "locker_id": "A",
+        "upstream_min": 20
+      },
+      {
+        "id": "d0-0049",
+        "arrival_min": 50.3904,
+        "locker_id": "A",
+        "upstream_min": 25
+      },
+      {
+        "id": "d0-0050",
+        "arrival_min": 50.6108,
+        "locker_id": "A",
+        "upstream_min": 25
+      },
+      {
+        "id": "d0-0051",
+        "arrival_min": 51.0265,
+        "locker_id": "A",
+        "upstream_min": 20
+      },
+      {
+        "id": "d0-0052",
+        "arrival_min": 52.0755,
+        "locker_id": "A",
+        "upstream_min": 35
+      },
+      {
+        "id": "d0-0053",
+        "arrival_min": 52.9757,
+        "locker_id": "A",
+        "upstream_min": 35
+      },
+      {
+        "id": "d0-0054",
+        "arrival_min": 53.023,
+        "locker_id": "A",
+        "upstream_min": 35
+      },
+      {
+        "id": "d0-0055",
+        "arrival_min": 53.8893,
+        "locker_id": "A",
+        "upstream_min": 25
+      },
+      {
+        "id": "d0-0056",
+        "arrival_min": 54.8222,
+        "locker_id": "A",
+        "upstream_min": 20
+      },
+      {
+        "id": "d0-0057",
+        "arrival_min": 57.2002,
+        "locker_id": "A",
+        "upstream_min": 20
+      },
+      {
+        "id": "d0-0058",
+        "arrival_min": 57.4656,
+        "locker_id": "A",
+        "upstream_min": 20
+      },
+      {
+        "id": "d0-0059",
+        "arrival_min": 58.0271,
+        "locker_id": "A",
+        "upstream_min": 25
+      },
+      {
+        "id": "d0-0060",
+        "arrival_min": 59.1828,
+        "locker_id": "A",
+        "upstream_min": 20
+      },
+      {
+        "id": "d0-0061",
+        "arrival_min": 59.2153,
+        "locker_id": "A",
+        "upstream_min": 20
+      },
+      {
+        "id": "d0-0062",
+        "arrival_min": 59.4558,
+        "locker_id": "A",
+        "upstream_min": 30
+      },
+      {
+        "id": "d0-0063",
+        "arrival_min": 59.5916,
+        "locker_id": "A",
+        "upstream_min": 20
+      },
+      {
+        "id": "d0-0064",
+        "arrival_min": 59.8695,
+        "locker_id": "A",
+        "upstream_min": 20
+      },
+      {
+        "id": "d0-0065",
+        "arrival_min": 60.5702,
+        "locker_id": "A",
+        "upstream_min": 25
+      },
+      {
+        "id": "d0-0066",
+        "arrival_min": 60.7948,
+        "locker_id": "A",
+        "upstream_min": 35
+      },
+      {
+        "id": "d0-0067",
+        "arrival_min": 61.7492,
+        "locker_id": "A",
+        "upstream_min": 20
+      },
+      {
+        "id": "d0-0068",
+        "arrival_min": 63.1359,
+        "locker_id": "A",
+        "upstream_min": 20
+      },
+      {
+        "id": "d0-0069",
+        "arrival_min": 63.9533,
+        "locker_id": "A",
+        "upstream_min": 25
+      },
+      {
+        "id": "d0-0070",
+        "arrival_min": 66.8437,
+        "locker_id": "A",
+        "upstream_min": 35
+      },
+      {
+        "id": "d0-0071",
+        "arrival_min": 67.8868,
+        "locker_id": "A",
+        "upstream_min": 30
+      },
+      {
+        "id": "d0-0072",
+        "arrival_min": 68.0725,
+        "locker_id": "A",
+        "upstream_min": 20
+      },
+      {
+        "id": "d0-0073",
+        "arrival_min": 68.268,
+        "locker_id": "A",
+        "upstream_min": 35
+      },
+      {
+        "id": "d0-0074",
+        "arrival_min": 69.511,
+        "locker_id": "A",
+        "upstream_min": 25
+      },
+      {
+        "id": "d0-0075",
+        "arrival_min": 69.8503,
+        "locker_id": "A",
+        "upstream_min": 25
+      },
+      {
+        "id": "d0-0076",
+        "arrival_min": 71.413,
+        "locker_id": "A",
+        "upstream_min": 25
+      },
+      {
+        "id": "d0-0077",
+        "arrival_min": 71.4356,
+        "locker_id": "A",
+        "upstream_min": 30
+      },
+      {
+        "id": "d0-0078",
+        "arrival_min": 72.0109,
+        "locker_id": "A",
+        "upstream_min": 30
+      },
+      {
+        "id": "d0-0079",
+        "arrival_min": 73.1618,
+        "locker_id": "A",
+        "upstream_min": 35
+      },
+      {
+        "id": "d0-0080",
+        "arrival_min": 73.5299,
+        "locker_id": "A",
+        "upstream_min": 20
+      },
+      {
+        "id": "d0-0081",
+        "arrival_min": 73.6955,
+        "locker_id": "A",
+        "upstream_min": 25
+      },
+      {
+        "id": "d0-0082",
+        "arrival_min": 75.9494,
+        "locker_id": "A",
+        "upstream_min": 20
+      },
+      {
+        "id": "d0-0083",
+        "arrival_min": 78.7525,
+        "locker_id": "A",
+        "upstream_min": 30
+      },
+      {
+        "id": "d0-0084",
+        "arrival_min": 80.1747,
+        "locker_id": "A",
+        "upstream_min": 20
+      },
+      {
+        "id": "d0-0085",
+        "arrival_min": 80.7015,
+        "locker_id": "A",
+        "upstream_min": 25
+      },
+      {
+        "id": "d0-0086",
+        "arrival_min": 81.0617,
+        "locker_id": "A",
+        "upstream_min": 20
+      },
+      {
+        "id": "d0-0087",
+        "arrival_min": 81.435,
+        "locker_id": "A",
+        "upstream_min": 35
+      },
+      {
+        "id": "d0-0088",
+        "arrival_min": 82.1858,
+        "locker_id": "A",
+        "upstream_min": 30
+      },
+      {
+        "id": "d0-0089",
+        "arrival_min": 82.2305,
+        "locker_id": "A",
+        "upstream_min": 30
+      },
+      {
+        "id": "d0-0090",
+        "arrival_min": 82.9336,
+        "locker_id": "A",
+        "upstream_min": 20
+      },
+      {
+        "id": "d0-0091",
+        "arrival_min": 88.0181,
+        "locker_id": "A",
+        "upstream_min": 25
+      },
+      {
+        "id": "d0-0092",
+        "arrival_min": 89.3781,
+        "locker_id": "A",
+        "upstream_min": 30
+      },
+      {
+        "id": "d0-0093",
+        "arrival_min": 90.8104,
+        "locker_id": "A",
+        "upstream_min": 20
+      },
+      {
+        "id": "d0-0094",
+        "arrival_min": 91.1333,
+        "locker_id": "A",
+        "upstream_min": 20
+      },
+      {
+        "id": "d0-0095",
+        "arrival_min": 94.0906,
+        "locker_id": "A",
+        "upstream_min": 35
+      },
+      {
+        "id": "d0-0096",
+        "arrival_min": 95.1096,
+        "locker_id": "A",
+        "upstream_min": 25
+      },
+      {
+        "id": "d0-0097",
+        "arrival_min": 99.4719,
+        "locker_id": "A",
+        "upstream_min": 35
+      },
+      {
+        "id": "d0-0098",
+        "arrival_min": 101.2276,
+        "locker_id": "A",
+        "upstream_min": 20
+      },
+      {
+        "id": "d0-0099",
+        "arrival_min": 110.8922,
+        "locker_id": "A",
+        "upstream_min": 20
+      },
+      {
+        "id": "d0-0100",
+        "arrival_min": 111.2489,
+        "locker_id": "A",
+        "upstream_min": 25
+      }
+    ],
+    [
+      {
+        "id": "d1-0000",
+        "arrival_min": 3.3656,
+        "locker_id": "A",
+        "upstream_min": 20
+      },
+      {
+        "id": "d1-0001",
+        "arrival_min": 6.468,
+        "locker_id": "A",
+        "upstream_min": 30
+      },
+      {
+        "id": "d1-0002",
+        "arrival_min": 8.2709,
+        "locker_id": "A",
+        "upstream_min": 30
+      },
+      {
+        "id": "d1-0003",
+        "arrival_min": 11.1155,
+        "locker_id": "A",
+        "upstream_min": 30
+      },
+      {
+        "id": "d1-0004",
+        "arrival_min": 15.9489,
+        "locker_id": "A",
+        "upstream_min": 25
+      },
+      {
+        "id": "d1-0005",
+        "arrival_min": 19.0935,
+        "locker_id": "A",
+        "upstream_min": 20
+      },
+      {
+        "id": "d1-0006",
+        "arrival_min": 20.2709,
+        "locker_id": "A",
+        "upstream_min": 25
+      },
+      {
+        "id": "d1-0007",
+        "arrival_min": 20.6301,
+        "locker_id": "A",
+        "upstream_min": 20
+      },
+      {
+        "id": "d1-0008",
+        "arrival_min": 23.5759,
+        "locker_id": "A",
+        "upstream_min": 35
+      },
+      {
+        "id": "d1-0009",
+        "arrival_min": 25.6995,
+        "locker_id": "A",
+        "upstream_min": 30
+      },
+      {
+        "id": "d1-0010",
+        "arrival_min": 25.888,
+        "locker_id": "A",
+        "upstream_min": 25
+      },
+      {
+        "id": "d1-0011",
+        "arrival_min": 27.7461,
+        "locker_id": "A",
+        "upstream_min": 20
+      },
+      {
+        "id": "d1-0012",
+        "arrival_min": 29.5191,
+        "locker_id": "A",
+        "upstream_min": 30
+      },
+      {
+        "id": "d1-0013",
+        "arrival_min": 30.1138,
+        "locker_id": "A",
+        "upstream_min": 25
+      },
+      {
+        "id": "d1-0014",
+        "arrival_min": 31.1721,
+        "locker_id": "A",
+        "upstream_min": 35
+      },
+      {
+        "id": "d1-0015",
+        "arrival_min": 31.4187,
+        "locker_id": "A",
+        "upstream_min": 30
+      },
+      {
+        "id": "d1-0016",
+        "arrival_min": 32.537,
+        "locker_id": "A",
+        "upstream_min": 30
+      },
+      {
+        "id": "d1-0017",
+        "arrival_min": 33.0581,
+        "locker_id": "A",
+        "upstream_min": 35
+      },
+      {
+        "id": "d1-0018",
+        "arrival_min": 33.6055,
+        "locker_id": "A",
+        "upstream_min": 35
+      },
+      {
+        "id": "d1-0019",
+        "arrival_min": 34.6947,
+        "locker_id": "A",
+        "upstream_min": 25
+      },
+      {
+        "id": "d1-0020",
+        "arrival_min": 34.8714,
+        "locker_id": "A",
+        "upstream_min": 25
+      },
+      {
+        "id": "d1-0021",
+        "arrival_min": 39.0911,
+        "locker_id": "A",
+        "upstream_min": 25
+      },
+      {
+        "id": "d1-0022",
+        "arrival_min": 39.9941,
+        "locker_id": "A",
+        "upstream_min": 30
+      },
+      {
+        "id": "d1-0023",
+        "arrival_min": 40.54,
+        "locker_id": "A",
+        "upstream_min": 25
+      },
+      {
+        "id": "d1-0024",
+        "arrival_min": 40.8649,
+        "locker_id": "A",
+        "upstream_min": 35
+      },
+      {
+        "id": "d1-0025",
+        "arrival_min": 41.6512,
+        "locker_id": "A",
+        "upstream_min": 35
+      },
+      {
+        "id": "d1-0026",
+        "arrival_min": 41.9909,
+        "locker_id": "A",
+        "upstream_min": 20
+      },
+      {
+        "id": "d1-0027",
+        "arrival_min": 42.0861,
+        "locker_id": "A",
+        "upstream_min": 30
+      },
+      {
+        "id": "d1-0028",
+        "arrival_min": 42.4769,
+        "locker_id": "A",
+        "upstream_min": 25
+      },
+      {
+        "id": "d1-0029",
+        "arrival_min": 43.6582,
+        "locker_id": "A",
+        "upstream_min": 30
+      },
+      {
+        "id": "d1-0030",
+        "arrival_min": 44.0822,
+        "locker_id": "A",
+        "upstream_min": 30
+      },
+      {
+        "id": "d1-0031",
+        "arrival_min": 44.2645,
+        "locker_id": "A",
+        "upstream_min": 20
+      },
+      {
+        "id": "d1-0032",
+        "arrival_min": 45.8902,
+        "locker_id": "A",
+        "upstream_min": 30
+      },
+      {
+        "id": "d1-0033",
+        "arrival_min": 46.3561,
+        "locker_id": "A",
+        "upstream_min": 25
+      },
+      {
+        "id": "d1-0034",
+        "arrival_min": 46.518,
+        "locker_id": "A",
+        "upstream_min": 25
+      },
+      {
+        "id": "d1-0035",
+        "arrival_min": 47.4661,
+        "locker_id": "A",
+        "upstream_min": 25
+      },
+      {
+        "id": "d1-0036",
+        "arrival_min": 48.6896,
+        "locker_id": "A",
+        "upstream_min": 35
+      },
+      {
+        "id": "d1-0037",
+        "arrival_min": 49.6973,
+        "locker_id": "A",
+        "upstream_min": 20
+      },
+      {
+        "id": "d1-0038",
+        "arrival_min": 49.745,
+        "locker_id": "A",
+        "upstream_min": 30
+      },
+      {
+        "id": "d1-0039",
+        "arrival_min": 50.1459,
+        "locker_id": "A",
+        "upstream_min": 25
+      },
+      {
+        "id": "d1-0040",
+        "arrival_min": 51.2815,
+        "locker_id": "A",
+        "upstream_min": 25
+      },
+      {
+        "id": "d1-0041",
+        "arrival_min": 51.2885,
+        "locker_id": "A",
+        "upstream_min": 35
+      },
+      {
+        "id": "d1-0042",
+        "arrival_min": 51.6565,
+        "locker_id": "A",
+        "upstream_min": 30
+      },
+      {
+        "id": "d1-0043",
+        "arrival_min": 52.7598,
+        "locker_id": "A",
+        "upstream_min": 35
+      },
+      {
+        "id": "d1-0044",
+        "arrival_min": 52.9001,
+        "locker_id": "A",
+        "upstream_min": 20
+      },
+      {
+        "id": "d1-0045",
+        "arrival_min": 52.9401,
+        "locker_id": "A",
+        "upstream_min": 35
+      },
+      {
+        "id": "d1-0046",
+        "arrival_min": 53.7435,
+        "locker_id": "A",
+        "upstream_min": 25
+      },
+      {
+        "id": "d1-0047",
+        "arrival_min": 54.155,
+        "locker_id": "A",
+        "upstream_min": 35
+      },
+      {
+        "id": "d1-0048",
+        "arrival_min": 54.3339,
+        "locker_id": "A",
+        "upstream_min": 35
+      },
+      {
+        "id": "d1-0049",
+        "arrival_min": 54.8558,
+        "locker_id": "A",
+        "upstream_min": 30
+      },
+      {
+        "id": "d1-0050",
+        "arrival_min": 55.6832,
+        "locker_id": "A",
+        "upstream_min": 25
+      },
+      {
+        "id": "d1-0051",
+        "arrival_min": 55.9612,
+        "locker_id": "A",
+        "upstream_min": 20
+      },
+      {
+        "id": "d1-0052",
+        "arrival_min": 57.8601,
+        "locker_id": "A",
+        "upstream_min": 20
+      },
+      {
+        "id": "d1-0053",
+        "arrival_min": 58.4933,
+        "locker_id": "A",
+        "upstream_min": 30
+      },
+      {
+        "id": "d1-0054",
+        "arrival_min": 59.3412,
+        "locker_id": "A",
+        "upstream_min": 30
+      },
+      {
+        "id": "d1-0055",
+        "arrival_min": 59.9904,
+        "locker_id": "A",
+        "upstream_min": 25
+      },
+      {
+        "id": "d1-0056",
+        "arrival_min": 60.1422,
+        "locker_id": "A",
+        "upstream_min": 20
+      },
+      {
+        "id": "d1-0057",
+        "arrival_min": 60.494,
+        "locker_id": "A",
+        "upstream_min": 35
+      },
+      {
+        "id": "d1-0058",
+        "arrival_min": 60.5616,
+        "locker_id": "A",
+        "upstream_min": 30
+      },
+      {
+        "id": "d1-0059",
+        "arrival_min": 64.5571,
+        "locker_id": "A",
+        "upstream_min": 20
+      },
+      {
+        "id": "d1-0060",
+        "arrival_min": 65.5204,
+        "locker_id": "A",
+        "upstream_min": 20
+      },
+      {
+        "id": "d1-0061",
+        "arrival_min": 65.694,
+        "locker_id": "A",
+        "upstream_min": 30
+      },
+      {
+        "id": "d1-0062",
+        "arrival_min": 68.2614,
+        "locker_id": "A",
+        "upstream_min": 20
+      },
+      {
+        "id": "d1-0063",
+        "arrival_min": 68.2888,
+        "locker_id": "A",
+        "upstream_min": 35
+      },
+      {
+        "id": "d1-0064",
+        "arrival_min": 69.1488,
+        "locker_id": "A",
+        "upstream_min": 30
+      },
+      {
+        "id": "d1-0065",
+        "arrival_min": 69.1863,
+        "locker_id": "A",
+        "upstream_min": 35
+      },
+      {
+        "id": "d1-0066",
+        "arrival_min": 69.9395,
+        "locker_id": "A",
+        "upstream_min": 25
+      },
+      {
+        "id": "d1-0067",
+        "arrival_min": 71.3293,
+        "locker_id": "A",
+        "upstream_min": 20
+      },
+      {
+        "id": "d1-0068",
+        "arrival_min": 72.1071,
+        "locker_id": "A",
+        "upstream_min": 35
+      },
+      {
+        "id": "d1-0069",
+        "arrival_min": 72.4562,
+        "locker_id": "A",
+        "upstream_min": 20
+      },
+      {
+        "id": "d1-0070",
+        "arrival_min": 73.0271,
+        "locker_id": "A",
+        "upstream_min": 25
+      },
+      {
+        "id": "d1-0071",
+        "arrival_min": 73.996,
+        "locker_id": "A",
+        "upstream_min": 30
+      },
+      {
+        "id": "d1-0072",
+        "arrival_min": 74.1999,
+        "locker_id": "A",
+        "upstream_min": 30
+      },
+      {
+        "id": "d1-0073",
+        "arrival_min": 74.6238,
+        "locker_id": "A",
+        "upstream_min": 35
+      },
+      {
+        "id": "d1-0074",
+        "arrival_min": 75.8375,
+        "locker_id": "A",
+        "upstream_min": 35
+      },
+      {
+        "id": "d1-0075",
+        "arrival_min": 77.5577,
+        "locker_id": "A",
+        "upstream_min": 25
+      },
+      {
+        "id": "d1-0076",
+        "arrival_min": 78.7684,
+        "locker_id": "A",
+        "upstream_min": 30
+      },
+      {
+        "id": "d1-0077",
+        "arrival_min": 80.4648,
+        "locker_id": "A",
+        "upstream_min": 25
+      },
+      {
+        "id": "d1-0078",
+        "arrival_min": 80.5459,
+        "locker_id": "A",
+        "upstream_min": 20
+      },
+      {
+        "id": "d1-0079",
+        "arrival_min": 80.5579,
+        "locker_id": "A",
+        "upstream_min": 20
+      },
+      {
+        "id": "d1-0080",
+        "arrival_min": 82.3982,
+        "locker_id": "A",
+        "upstream_min": 25
+      },
+      {
+        "id": "d1-0081",
+        "arrival_min": 83.6523,
+        "locker_id": "A",
+        "upstream_min": 35
+      },
+      {
+        "id": "d1-0082",
+        "arrival_min": 83.7454,
+        "locker_id": "A",
+        "upstream_min": 25
+      },
+      {
+        "id": "d1-0083",
+        "arrival_min": 85.0454,
+        "locker_id": "A",
+        "upstream_min": 20
+      },
+      {
+        "id": "d1-0084",
+        "arrival_min": 86.572,
+        "locker_id": "A",
+        "upstream_min": 20
+      },
+      {
+        "id": "d1-0085",
+        "arrival_min": 86.7723,
+        "locker_id": "A",
+        "upstream_min": 30
+      },
+      {
+        "id": "d1-0086",
+        "arrival_min": 86.9233,
+        "locker_id": "A",
+        "upstream_min": 20
+      },
+      {
+        "id": "d1-0087",
+        "arrival_min": 87.4166,
+        "locker_id": "A",
+        "upstream_min": 20
+      },
+      {
+        "id": "d1-0088",
+        "arrival_min": 88.9775,
+        "locker_id": "A",
+        "upstream_min": 25
+      },
+      {
+        "id": "d1-0089",
+        "arrival_min": 89.4828,
+        "locker_id": "A",
+        "upstream_min": 25
+      },
+      {
+        "id": "d1-0090",
+        "arrival_min": 89.684,
+        "locker_id": "A",
+        "upstream_min": 30
+      },
+      {
+        "id": "d1-0091",
+        "arrival_min": 91.205,
+        "locker_id": "A",
+        "upstream_min": 35
+      },
+      {
+        "id": "d1-0092",
+        "arrival_min": 91.2119,
+        "locker_id": "A",
+        "upstream_min": 35
+      },
+      {
+        "id": "d1-0093",
+        "arrival_min": 91.7099,
+        "locker_id": "A",
+        "upstream_min": 30
+      },
+      {
+        "id": "d1-0094",
+        "arrival_min": 95.926,
+        "locker_id": "A",
+        "upstream_min": 30
+      },
+      {
+        "id": "d1-0095",
+        "arrival_min": 96.4173,
+        "locker_id": "A",
+        "upstream_min": 20
+      },
+      {
+        "id": "d1-0096",
+        "arrival_min": 97.192,
+        "locker_id": "A",
+        "upstream_min": 25
+      },
+      {
+        "id": "d1-0097",
+        "arrival_min": 97.2914,
+        "locker_id": "A",
+        "upstream_min": 30
+      },
+      {
+        "id": "d1-0098",
+        "arrival_min": 98.1762,
+        "locker_id": "A",
+        "upstream_min": 30
+      },
+      {
+        "id": "d1-0099",
+        "arrival_min": 100.5404,
+        "locker_id": "A",
+        "upstream_min": 25
+      },
+      {
+        "id": "d1-0100",
+        "arrival_min": 110.2168,
+        "locker_id": "A",
+        "upstream_min": 25
+      }
+    ],
+    [
+      {
+        "id": "d2-0000",
+        "arrival_min": 7.77,
+        "locker_id": "A",
+        "upstream_min": 30
+      },
+      {
+        "id": "d2-0001",
+        "arrival_min": 7.7716,
+        "locker_id": "A",
+        "upstream_min": 20
+      },
+      {
+        "id": "d2-0002",
+        "arrival_min": 8.9988,
+        "locker_id": "A",
+        "upstream_min": 25
+      },
+      {
+        "id": "d2-0003",
+        "arrival_min": 11.8335,
+        "locker_id": "A",
+        "upstream_min": 20
+      },
+      {
+        "id": "d2-0004",
+        "arrival_min": 12.3257,
+        "locker_id": "A",
+        "upstream_min": 25
+      },
+      {
+        "id": "d2-0005",
+        "arrival_min": 12.5317,
+        "locker_id": "A",
+        "upstream_min": 30
+      },
+      {
+        "id": "d2-0006",
+        "arrival_min": 12.6388,
+        "locker_id": "A",
+        "upstream_min": 25
+      },
+      {
+        "id": "d2-0007",
+        "arrival_min": 14.1937,
+        "locker_id": "A",
+        "upstream_min": 20
+      },
+      {
+        "id": "d2-0008",
+        "arrival_min": 16.9601,
+        "locker_id": "A",
+        "upstream_min": 35
+      },
+      {
+        "id": "d2-0009",
+        "arrival_min": 17.3145,
+        "locker_id": "A",
+        "upstream_min": 25
+      },
+      {
+        "id": "d2-0010",
+        "arrival_min": 17.9848,
+        "locker_id": "A",
+        "upstream_min": 25
+      },
+      {
+        "id": "d2-0011",
+        "arrival_min": 19.04,
+        "locker_id": "A",
+        "upstream_min": 20
+      },
+      {
+        "id": "d2-0012",
+        "arrival_min": 19.0482,
+        "locker_id": "A",
+        "upstream_min": 20
+      },
+      {
+        "id": "d2-0013",
+        "arrival_min": 24.246,
+        "locker_id": "A",
+        "upstream_min": 30
+      },
+      {
+        "id": "d2-0014",
+        "arrival_min": 24.5352,
+        "locker_id": "A",
+        "upstream_min": 30
+      },
+      {
+        "id": "d2-0015",
+        "arrival_min": 24.8851,
+        "locker_id": "A",
+        "upstream_min": 30
+      },
+      {
+        "id": "d2-0016",
+        "arrival_min": 25.3218,
+        "locker_id": "A",
+        "upstream_min": 30
+      },
+      {
+        "id": "d2-0017",
+        "arrival_min": 25.3972,
+        "locker_id": "A",
+        "upstream_min": 20
+      },
+      {
+        "id": "d2-0018",
+        "arrival_min": 29.2414,
+        "locker_id": "A",
+        "upstream_min": 30
+      },
+      {
+        "id": "d2-0019",
+        "arrival_min": 29.917,
+        "locker_id": "A",
+        "upstream_min": 30
+      },
+      {
+        "id": "d2-0020",
+        "arrival_min": 30.1832,
+        "locker_id": "A",
+        "upstream_min": 30
+      },
+      {
+        "id": "d2-0021",
+        "arrival_min": 30.7169,
+        "locker_id": "A",
+        "upstream_min": 25
+      },
+      {
+        "id": "d2-0022",
+        "arrival_min": 31.9865,
+        "locker_id": "A",
+        "upstream_min": 35
+      },
+      {
+        "id": "d2-0023",
+        "arrival_min": 32.4477,
+        "locker_id": "A",
+        "upstream_min": 25
+      },
+      {
+        "id": "d2-0024",
+        "arrival_min": 32.5561,
+        "locker_id": "A",
+        "upstream_min": 25
+      },
+      {
+        "id": "d2-0025",
+        "arrival_min": 37.1476,
+        "locker_id": "A",
+        "upstream_min": 35
+      },
+      {
+        "id": "d2-0026",
+        "arrival_min": 39.2315,
+        "locker_id": "A",
+        "upstream_min": 30
+      },
+      {
+        "id": "d2-0027",
+        "arrival_min": 40.5428,
+        "locker_id": "A",
+        "upstream_min": 35
+      },
+      {
+        "id": "d2-0028",
+        "arrival_min": 43.1162,
+        "locker_id": "A",
+        "upstream_min": 30
+      },
+      {
+        "id": "d2-0029",
+        "arrival_min": 43.2043,
+        "locker_id": "A",
+        "upstream_min": 25
+      },
+      {
+        "id": "d2-0030",
+        "arrival_min": 43.8564,
+        "locker_id": "A",
+        "upstream_min": 35
+      },
+      {
+        "id": "d2-0031",
+        "arrival_min": 44.92,
+        "locker_id": "A",
+        "upstream_min": 35
+      },
+      {
+        "id": "d2-0032",
+        "arrival_min": 45.2769,
+        "locker_id": "A",
+        "upstream_min": 30
+      },
+      {
+        "id": "d2-0033",
+        "arrival_min": 46.1076,
+        "locker_id": "A",
+        "upstream_min": 25
+      },
+      {
+        "id": "d2-0034",
+        "arrival_min": 46.6137,
+        "locker_id": "A",
+        "upstream_min": 20
+      },
+      {
+        "id": "d2-0035",
+        "arrival_min": 46.619,
+        "locker_id": "A",
+        "upstream_min": 35
+      },
+      {
+        "id": "d2-0036",
+        "arrival_min": 46.8121,
+        "locker_id": "A",
+        "upstream_min": 35
+      },
+      {
+        "id": "d2-0037",
+        "arrival_min": 46.8376,
+        "locker_id": "A",
+        "upstream_min": 25
+      },
+      {
+        "id": "d2-0038",
+        "arrival_min": 46.8622,
+        "locker_id": "A",
+        "upstream_min": 25
+      },
+      {
+        "id": "d2-0039",
+        "arrival_min": 47.9093,
+        "locker_id": "A",
+        "upstream_min": 25
+      },
+      {
+        "id": "d2-0040",
+        "arrival_min": 48.7879,
+        "locker_id": "A",
+        "upstream_min": 30
+      },
+      {
+        "id": "d2-0041",
+        "arrival_min": 49.196,
+        "locker_id": "A",
+        "upstream_min": 20
+      },
+      {
+        "id": "d2-0042",
+        "arrival_min": 49.7051,
+        "locker_id": "A",
+        "upstream_min": 20
+      },
+      {
+        "id": "d2-0043",
+        "arrival_min": 49.7314,
+        "locker_id": "A",
+        "upstream_min": 30
+      },
+      {
+        "id": "d2-0044",
+        "arrival_min": 49.982,
+        "locker_id": "A",
+        "upstream_min": 35
+      },
+      {
+        "id": "d2-0045",
+        "arrival_min": 50.4822,
+        "locker_id": "A",
+        "upstream_min": 30
+      },
+      {
+        "id": "d2-0046",
+        "arrival_min": 50.6027,
+        "locker_id": "A",
+        "upstream_min": 30
+      },
+      {
+        "id": "d2-0047",
+        "arrival_min": 52.0926,
+        "locker_id": "A",
+        "upstream_min": 35
+      },
+      {
+        "id": "d2-0048",
+        "arrival_min": 52.5195,
+        "locker_id": "A",
+        "upstream_min": 35
+      },
+      {
+        "id": "d2-0049",
+        "arrival_min": 52.9792,
+        "locker_id": "A",
+        "upstream_min": 35
+      },
+      {
+        "id": "d2-0050",
+        "arrival_min": 53.1098,
+        "locker_id": "A",
+        "upstream_min": 30
+      },
+      {
+        "id": "d2-0051",
+        "arrival_min": 53.9429,
+        "locker_id": "A",
+        "upstream_min": 25
+      },
+      {
+        "id": "d2-0052",
+        "arrival_min": 54.6008,
+        "locker_id": "A",
+        "upstream_min": 25
+      },
+      {
+        "id": "d2-0053",
+        "arrival_min": 54.7747,
+        "locker_id": "A",
+        "upstream_min": 35
+      },
+      {
+        "id": "d2-0054",
+        "arrival_min": 55.0475,
+        "locker_id": "A",
+        "upstream_min": 20
+      },
+      {
+        "id": "d2-0055",
+        "arrival_min": 55.7891,
+        "locker_id": "A",
+        "upstream_min": 20
+      },
+      {
+        "id": "d2-0056",
+        "arrival_min": 56.2879,
+        "locker_id": "A",
+        "upstream_min": 35
+      },
+      {
+        "id": "d2-0057",
+        "arrival_min": 56.4092,
+        "locker_id": "A",
+        "upstream_min": 30
+      },
+      {
+        "id": "d2-0058",
+        "arrival_min": 56.7507,
+        "locker_id": "A",
+        "upstream_min": 25
+      },
+      {
+        "id": "d2-0059",
+        "arrival_min": 58.2652,
+        "locker_id": "A",
+        "upstream_min": 25
+      },
+      {
+        "id": "d2-0060",
+        "arrival_min": 58.3355,
+        "locker_id": "A",
+        "upstream_min": 25
+      },
+      {
+        "id": "d2-0061",
+        "arrival_min": 58.7713,
+        "locker_id": "A",
+        "upstream_min": 35
+      },
+      {
+        "id": "d2-0062",
+        "arrival_min": 60.0609,
+        "locker_id": "A",
+        "upstream_min": 20
+      },
+      {
+        "id": "d2-0063",
+        "arrival_min": 60.7543,
+        "locker_id": "A",
+        "upstream_min": 20
+      },
+      {
+        "id": "d2-0064",
+        "arrival_min": 61.1001,
+        "locker_id": "A",
+        "upstream_min": 35
+      },
+      {
+        "id": "d2-0065",
+        "arrival_min": 61.4774,
+        "locker_id": "A",
+        "upstream_min": 30
+      },
+      {
+        "id": "d2-0066",
+        "arrival_min": 62.3133,
+        "locker_id": "A",
+        "upstream_min": 30
+      },
+      {
+        "id": "d2-0067",
+        "arrival_min": 62.5254,
+        "locker_id": "A",
+        "upstream_min": 30
+      },
+      {
+        "id": "d2-0068",
+        "arrival_min": 64.0105,
+        "locker_id": "A",
+        "upstream_min": 30
+      },
+      {
+        "id": "d2-0069",
+        "arrival_min": 65.1594,
+        "locker_id": "A",
+        "upstream_min": 30
+      },
+      {
+        "id": "d2-0070",
+        "arrival_min": 65.4174,
+        "locker_id": "A",
+        "upstream_min": 35
+      },
+      {
+        "id": "d2-0071",
+        "arrival_min": 65.9275,
+        "locker_id": "A",
+        "upstream_min": 30
+      },
+      {
+        "id": "d2-0072",
+        "arrival_min": 66.5535,
+        "locker_id": "A",
+        "upstream_min": 20
+      },
+      {
+        "id": "d2-0073",
+        "arrival_min": 66.6476,
+        "locker_id": "A",
+        "upstream_min": 25
+      },
+      {
+        "id": "d2-0074",
+        "arrival_min": 66.7937,
+        "locker_id": "A",
+        "upstream_min": 30
+      },
+      {
+        "id": "d2-0075",
+        "arrival_min": 67.6756,
+        "locker_id": "A",
+        "upstream_min": 35
+      },
+      {
+        "id": "d2-0076",
+        "arrival_min": 67.7973,
+        "locker_id": "A",
+        "upstream_min": 30
+      },
+      {
+        "id": "d2-0077",
+        "arrival_min": 69.6723,
+        "locker_id": "A",
+        "upstream_min": 25
+      },
+      {
+        "id": "d2-0078",
+        "arrival_min": 70.4288,
+        "locker_id": "A",
+        "upstream_min": 25
+      },
+      {
+        "id": "d2-0079",
+        "arrival_min": 71.2456,
+        "locker_id": "A",
+        "upstream_min": 20
+      },
+      {
+        "id": "d2-0080",
+        "arrival_min": 72.3827,
+        "locker_id": "A",
+        "upstream_min": 30
+      },
+      {
+        "id": "d2-0081",
+        "arrival_min": 72.93,
+        "locker_id": "A",
+        "upstream_min": 20
+      },
+      {
+        "id": "d2-0082",
+        "arrival_min": 74.4211,
+        "locker_id": "A",
+        "upstream_min": 30
+      },
+      {
+        "id": "d2-0083",
+        "arrival_min": 78.7705,
+        "locker_id": "A",
+        "upstream_min": 30
+      },
+      {
+        "id": "d2-0084",
+        "arrival_min": 80.2089,
+        "locker_id": "A",
+        "upstream_min": 20
+      },
+      {
+        "id": "d2-0085",
+        "arrival_min": 80.3849,
+        "locker_id": "A",
+        "upstream_min": 30
+      },
+      {
+        "id": "d2-0086",
+        "arrival_min": 80.8903,
+        "locker_id": "A",
+        "upstream_min": 20
+      },
+      {
+        "id": "d2-0087",
+        "arrival_min": 81.8685,
+        "locker_id": "A",
+        "upstream_min": 35
+      },
+      {
+        "id": "d2-0088",
+        "arrival_min": 82.3777,
+        "locker_id": "A",
+        "upstream_min": 20
+      },
+      {
+        "id": "d2-0089",
+        "arrival_min": 84.5161,
+        "locker_id": "A",
+        "upstream_min": 20
+      },
+      {
+        "id": "d2-0090",
+        "arrival_min": 86.5063,
+        "locker_id": "A",
+        "upstream_min": 35
+      },
+      {
+        "id": "d2-0091",
+        "arrival_min": 89.2246,
+        "locker_id": "A",
+        "upstream_min": 25
+      },
+      {
+        "id": "d2-0092",
+        "arrival_min": 92.1963,
+        "locker_id": "A",
+        "upstream_min": 25
+      },
+      {
+        "id": "d2-0093",
+        "arrival_min": 95.672,
+        "locker_id": "A",
+        "upstream_min": 25
+      },
+      {
+        "id": "d2-0094",
+        "arrival_min": 97.5044,
+        "locker_id": "A",
+        "upstream_min": 30
+      },
+      {
+        "id": "d2-0095",
+        "arrival_min": 99.1221,
+        "locker_id": "A",
+        "upstream_min": 35
+      },
+      {
+        "id": "d2-0096",
+        "arrival_min": 100.2329,
+        "locker_id": "A",
+        "upstream_min": 35
+      },
+      {
+        "id": "d2-0097",
+        "arrival_min": 104.0437,
+        "locker_id": "A",
+        "upstream_min": 20
+      },
+      {
+        "id": "d2-0098",
+        "arrival_min": 104.1342,
+        "locker_id": "A",
+        "upstream_min": 30
+      },
+      {
+        "id": "d2-0099",
+        "arrival_min": 108.7083,
+        "locker_id": "A",
+        "upstream_min": 35
+      },
+      {
+        "id": "d2-0100",
+        "arrival_min": 109.0124,
+        "locker_id": "A",
+        "upstream_min": 20
+      }
+    ]
+  ],
+  "notice_delay_samples_min": [
+    0,
+    0.2,
+    0.5
+  ],
+  "walk_samples_min": [
+    4,
+    6,
+    8,
+    10,
+    12,
+    15
+  ],
+  "pickup_service_samples_min": [
+    0.3,
+    0.5,
+    0.7
+  ]
+}
